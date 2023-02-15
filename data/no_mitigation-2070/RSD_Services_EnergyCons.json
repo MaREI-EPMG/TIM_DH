@@ -2,7 +2,7 @@
   "name": "no_mitigation-2070",
   "data": [
     {
-      "serieName": "RSD_BLD-XXX_NRGSRV-CD",
+      "seriesNames": "RSD_BLD-XXX_NRGSRV-CD",
       "seriesValues": [
         [
           2018,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "serieName": "RSD_BLD-XXX_NRGSRV-CK",
+      "seriesNames": "RSD_BLD-XXX_NRGSRV-CK",
       "seriesValues": [
         [
           2018,
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "serieName": "RSD_BLD-XXX_NRGSRV-CW",
+      "seriesNames": "RSD_BLD-XXX_NRGSRV-CW",
       "seriesValues": [
         [
           2018,
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "serieName": "RSD_BLD-XXX_NRGSRV-DW",
+      "seriesNames": "RSD_BLD-XXX_NRGSRV-DW",
       "seriesValues": [
         [
           2018,
@@ -326,7 +326,7 @@
       ]
     },
     {
-      "serieName": "RSD_BLD-XXX_NRGSRV-LT",
+      "seriesNames": "RSD_BLD-XXX_NRGSRV-LT",
       "seriesValues": [
         [
           2018,
@@ -407,7 +407,7 @@
       ]
     },
     {
-      "serieName": "RSD_BLD-XXX_NRGSRV-OE",
+      "seriesNames": "RSD_BLD-XXX_NRGSRV-OE",
       "seriesValues": [
         [
           2018,
@@ -488,7 +488,7 @@
       ]
     },
     {
-      "serieName": "RSD_BLD-XXX_NRGSRV-PF",
+      "seriesNames": "RSD_BLD-XXX_NRGSRV-PF",
       "seriesValues": [
         [
           2018,
@@ -569,7 +569,7 @@
       ]
     },
     {
-      "serieName": "RSD_BLD-XXX_NRGSRV-RF",
+      "seriesNames": "RSD_BLD-XXX_NRGSRV-RF",
       "seriesValues": [
         [
           2018,
@@ -650,7 +650,7 @@
       ]
     },
     {
-      "serieName": "RSD_BLD-XXX_NRGSRV-WS",
+      "seriesNames": "RSD_BLD-XXX_NRGSRV-WS",
       "seriesValues": [
         [
           2018,
