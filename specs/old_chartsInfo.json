@@ -1,6 +1,6 @@
 {
   "SYS_Emissions_CO2_Domestic": {
-    "serieName": [
+    "seriesNames": [
       "AGRCO2N",
       "INDCO2N",
       "INDCO2P",
@@ -21,7 +21,7 @@
     "unit": "kt"
   },
   "SYS_Emissions_CO2_Domestic_Cumulative": {
-    "serieName": [
+    "seriesNames": [
       "AGRCO2N",
       "INDCO2N",
       "INDCO2P",
@@ -42,7 +42,7 @@
     "unit": "kt"
   },
   "AGR_FEC": {
-    "serieName": [
+    "seriesNames": [
       "AGRDST",
       "AGRELC",
       "AGRLPG",
@@ -65,7 +65,7 @@
     "unit": "PJ"
   },
   "IND_Emissions-CO2": {
-    "serieName": [
+    "seriesNames": [
       "DMD_IND-CAF",
       "DMD_IND-CON",
       "DMD_IND-EOE",
@@ -100,7 +100,7 @@
     "unit": "kt"
   },
   "RSD_BLD_TYPE": {
-    "serieName": [
+    "seriesNames": [
       "DMD_RSD-BLD-APT",
       "DMD_RSD-BLD-ATT",
       "DMD_RSD-BLD-DET"
@@ -113,7 +113,7 @@
     "unit": "kUnits"
   },
   "SRV_FEC_Service": {
-    "serieName": [
+    "seriesNames": [
       "DMD_SRV-CS_DC",
       "DMD_SRV-PU_PLIG",
       "SRV-CS_NRGSRV-CK",
@@ -144,7 +144,7 @@
     "unit": "PJ"
   },
   "TRA_FEC-TRABDL_Mode_Detailed": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-F-HTRUCK",
       "DMD_TRA-F-LTRUCK",
       "DMD_TRA-F-MTRUCK",
@@ -181,7 +181,7 @@
     "unit": "PJ"
   },
   "TRA_FEC-TRABJK_Mode_Detailed": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-F-HTRUCK",
       "DMD_TRA-F-LTRUCK",
       "DMD_TRA-F-MTRUCK",
@@ -218,7 +218,7 @@
     "unit": "PJ"
   },
   "TRA_FEC-TRABNG_Mode_Detailed": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-F-HTRUCK",
       "DMD_TRA-F-LTRUCK",
       "DMD_TRA-F-MTRUCK",
@@ -255,7 +255,7 @@
     "unit": "PJ"
   },
   "TRA_FEC-TRAETH_Mode_Detailed": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-F-HTRUCK",
       "DMD_TRA-F-LTRUCK",
       "DMD_TRA-F-MTRUCK",
@@ -292,7 +292,7 @@
     "unit": "PJ"
   },
   "TRA_Freight_Land_Mode": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-F-HTRUCK",
       "DMD_TRA-F-LTRUCK",
       "DMD_TRA-F-MTRUCK",
@@ -307,7 +307,7 @@
     "unit": "Btkm"
   },
   "TRA_F-HTRUCK_TYPE": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-F-HTRUCK-ICE",
       "DMD_TRA-F-HTRUCK-HEV",
       "DMD_TRA-F-HTRUCK-BEV",
@@ -322,7 +322,7 @@
     "unit": "kVehicles"
   },
   "TRA_Emissions-CO2": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-F-LAND",
       "DMD_TRA-P-LAND",
       "DMD_TRA-R-AVIDOM",
@@ -343,7 +343,7 @@
     "unit": "kt"
   },
   "TRA_F-LTRUCK_TYPE": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-F-LTRUCK-ICE",
       "DMD_TRA-F-LTRUCK-BEV",
       "DMD_TRA-F-LTRUCK-HEV",
@@ -358,7 +358,7 @@
     "unit": "kVehicles"
   },
   "TRA_F-MTRUCK_TYPE": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-F-MTRUCK-ICE",
       "DMD_TRA-F-MTRUCK-HEV",
       "DMD_TRA-F-MTRUCK-BEV",
@@ -373,7 +373,7 @@
     "unit": "kVehicles"
   },
   "TRA_Passenger_Land_Mode": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-P-ACTIVE",
       "DMD_TRA-P-BUS",
       "DMD_TRA-P-CAR",
@@ -394,7 +394,7 @@
     "unit": "Bpkm"
   },
   "TRA_Passenger_Land_Mode-L": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-P-ACTIVE",
       "DMD_TRA-P-BUS",
       "DMD_TRA-P-CAR",
@@ -415,7 +415,7 @@
     "unit": "Bpkm"
   },
   "TRA_Passenger_Land_Mode-M": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-P-ACTIVE",
       "DMD_TRA-P-BUS",
       "DMD_TRA-P-CAR",
@@ -436,7 +436,7 @@
     "unit": "Bpkm"
   },
   "TRA_Passenger_Land_Mode-S": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-P-ACTIVE",
       "DMD_TRA-P-BUS",
       "DMD_TRA-P-CAR",
@@ -457,7 +457,7 @@
     "unit": "Bpkm"
   },
   "TRA_P-CAR_TYPE": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-P-CAR-BEV",
       "DMD_TRA-P-CAR-HEV",
       "DMD_TRA-P-CAR-ICE",
@@ -472,7 +472,7 @@
     "unit": "kVehicles"
   },
   "SYS_Cost_Type": {
-    "serieName": [
+    "seriesNames": [
       "FIX",
       "INV",
       "VAR",
@@ -487,7 +487,7 @@
     "unit": "MEUR"
   },
   "SYS_FEC-BIODST_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -504,7 +504,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-BIOETH_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -521,7 +521,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-BIOGAS_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -538,7 +538,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-BIOWOOx_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -555,7 +555,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-COA_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -572,7 +572,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-ELCD_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -589,7 +589,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-GASNAT_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -606,7 +606,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-H2_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -623,7 +623,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-HETD_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -640,7 +640,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-HFO_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -657,7 +657,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-LPG_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -674,7 +674,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-OILDST_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -691,7 +691,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-OILGSL_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -708,7 +708,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-OILKER_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -725,7 +725,7 @@
     "unit": "PJ"
   },
   "SYS_FEC-PEAT_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -742,7 +742,7 @@
     "unit": "PJ"
   },
   "SYS_FEC_Sector": {
-    "serieName": [
+    "seriesNames": [
       "FT_AGR",
       "FT_IND",
       "FT_RSD",
@@ -759,7 +759,7 @@
     "unit": "PJ"
   },
   "SUP_BIODST": {
-    "serieName": [
+    "seriesNames": [
       "IMPBIODST1G_S1",
       "IMPBIODST1G_S2",
       "SBIORDST02",
@@ -780,7 +780,7 @@
     "unit": "PJ"
   },
   "SUP_BIOETH": {
-    "serieName": [
+    "seriesNames": [
       "IMPBIOETH1G_S1",
       "IMPBIOETH1G_S2",
       "SBIORETH01",
@@ -795,7 +795,7 @@
     "unit": "PJ"
   },
   "IND-CAF_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -834,7 +834,7 @@
     "unit": "PJ"
   },
   "IND-CON_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -873,7 +873,7 @@
     "unit": "PJ"
   },
   "IND-EOE_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -912,7 +912,7 @@
     "unit": "PJ"
   },
   "IND-FAB_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -951,7 +951,7 @@
     "unit": "PJ"
   },
   "IND-MAE_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -990,7 +990,7 @@
     "unit": "PJ"
   },
   "IND-MAP_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -1029,7 +1029,7 @@
     "unit": "PJ"
   },
   "IND-NEM_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -1068,7 +1068,7 @@
     "unit": "PJ"
   },
   "IND-OMA_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -1107,7 +1107,7 @@
     "unit": "PJ"
   },
   "IND-ONM_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -1146,7 +1146,7 @@
     "unit": "PJ"
   },
   "IND-PX4_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -1185,7 +1185,7 @@
     "unit": "PJ"
   },
   "IND-RAP_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -1224,7 +1224,7 @@
     "unit": "PJ"
   },
   "IND-TAP_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -1263,7 +1263,7 @@
     "unit": "PJ"
   },
   "IND-TEM_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -1302,7 +1302,7 @@
     "unit": "PJ"
   },
   "IND-WAP_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -1341,7 +1341,7 @@
     "unit": "PJ"
   },
   "IND_FEC": {
-    "serieName": [
+    "seriesNames": [
       "INDBGS",
       "INDBIO",
       "INDCOA",
@@ -1380,7 +1380,7 @@
     "unit": "PJ"
   },
   "SYS_Cost_Sector": {
-    "serieName": [
+    "seriesNames": [
       "PRC_SUP",
       "PRC_TRA",
       "PRC_AGR",
@@ -1401,7 +1401,7 @@
     "unit": "MEUR"
   },
   "SYS_Cost_Sector_Cumulative": {
-    "serieName": [
+    "seriesNames": [
       "PRC_SUP",
       "PRC_TRA",
       "PRC_AGR",
@@ -1422,7 +1422,7 @@
     "unit": "MEUR"
   },
   "SYS_LumpInv_Sector": {
-    "serieName": [
+    "seriesNames": [
       "PRC_SUP",
       "PRC_PWR",
       "PRC_RSD",
@@ -1443,7 +1443,7 @@
     "unit": "MEUR"
   },
   "SYS_LumpInv_Sector_Cumulative": {
-    "serieName": [
+    "seriesNames": [
       "PRC_SUP",
       "PRC_PWR",
       "PRC_RSD",
@@ -1464,7 +1464,7 @@
     "unit": "MEUR"
   },
   "PWR_Cap": {
-    "serieName": [
+    "seriesNames": [
       "PWR-COA",
       "PWR-GAS",
       "PWR-HYD",
@@ -1499,7 +1499,7 @@
     "unit": "GW"
   },
   "PWR_Emissions-CO2": {
-    "serieName": [
+    "seriesNames": [
       "PWR-COA",
       "PWR-GAS",
       "PWR-OIL",
@@ -1520,7 +1520,7 @@
     "unit": "kt"
   },
   "PWR_Gen-ELCC": {
-    "serieName": [
+    "seriesNames": [
       "PWR-COA",
       "PWR-GAS",
       "PWR-HYD",
@@ -1555,7 +1555,7 @@
     "unit": "PJ"
   },
   "PWR_Gen-HETC": {
-    "serieName": [
+    "seriesNames": [
       "PWR-GAS"
     ],
     "colorScale": [
@@ -1564,7 +1564,7 @@
     "unit": "PJ"
   },
   "RSD_FEC": {
-    "serieName": [
+    "seriesNames": [
       "RSDAHT",
       "RSDAHT2",
       "RSDCOA",
@@ -1601,7 +1601,7 @@
     "unit": "PJ"
   },
   "RSD_OtherServices_FuelCons": {
-    "serieName": [
+    "seriesNames": [
       "RSDAHT",
       "RSDAHT2",
       "RSDCOA",
@@ -1638,7 +1638,7 @@
     "unit": "PJ"
   },
   "RSD_WS-APT_FuelCons": {
-    "serieName": [
+    "seriesNames": [
       "RSDAHT",
       "RSDAHT2",
       "RSDCOA",
@@ -1671,7 +1671,7 @@
     "unit": "PJ"
   },
   "RSD_WS-ATT_FuelCons": {
-    "serieName": [
+    "seriesNames": [
       "RSDAHT",
       "RSDAHT2",
       "RSDCOA",
@@ -1704,7 +1704,7 @@
     "unit": "PJ"
   },
   "RSD_WS-DET_FuelCons": {
-    "serieName": [
+    "seriesNames": [
       "RSDAHT",
       "RSDAHT2",
       "RSDCOA",
@@ -1737,7 +1737,7 @@
     "unit": "PJ"
   },
   "RSD_WaterSpace_FuelCons": {
-    "serieName": [
+    "seriesNames": [
       "RSDAHT",
       "RSDAHT2",
       "RSDCOA",
@@ -1774,7 +1774,7 @@
     "unit": "PJ"
   },
   "RSD_Services_EnergyCons": {
-    "serieName": [
+    "seriesNames": [
       "RSD_BLD-XXX_NRGSRV-CD",
       "RSD_BLD-XXX_NRGSRV-CK",
       "RSD_BLD-XXX_NRGSRV-CW",
@@ -1799,7 +1799,7 @@
     "unit": "PJ"
   },
   "RSD_Services_CO2Emissions": {
-    "serieName": [
+    "seriesNames": [
       "RSD_BLD-XXX_NRGSRV-WS",
       "RSD_BLD-XXX_NRGSRV-CK"
     ],
@@ -1810,7 +1810,7 @@
     "unit": "kt"
   },
   "SUP_BIOGAS": {
-    "serieName": [
+    "seriesNames": [
       "SBIORGAS06",
       "SBIORGAS01",
       "SBIORGAS05",
@@ -1827,7 +1827,7 @@
     "unit": "PJ"
   },
   "SYS_FEC_Fuel": {
-    "serieName": [
+    "seriesNames": [
       "SEAI_BIOENERGY",
       "SEAI_COAL",
       "SEAI_ELECTRICITY",
@@ -1852,7 +1852,7 @@
     "unit": "PJ"
   },
   "SYS_NRG-Import": {
-    "serieName": [
+    "seriesNames": [
       "SEAI_BIOENERGY",
       "SEAI_COAL",
       "SEAI_ELECTRICITY",
@@ -1871,7 +1871,7 @@
     "unit": "PJ"
   },
   "SYS_NRG-Ind_Supply": {
-    "serieName": [
+    "seriesNames": [
       "SEAI_BIOENERGY",
       "SEAI_NATGAS",
       "SEAI_OTHER_RENEWABLES",
@@ -1886,7 +1886,7 @@
     "unit": "PJ"
   },
   "SYS_TPED": {
-    "serieName": [
+    "seriesNames": [
       "SEAI_BIOENERGY",
       "SEAI_COAL",
       "SEAI_ELECTRICITY",
@@ -1909,7 +1909,7 @@
     "unit": "PJ"
   },
   "SYS_NRG-Export": {
-    "serieName": [
+    "seriesNames": [
       "SEAI_ELECTRICITY"
     ],
     "colorScale": [
@@ -1918,7 +1918,7 @@
     "unit": "PJ"
   },
   "SRV-COM_FEC_WS": {
-    "serieName": [
+    "seriesNames": [
       "SRVAHT",
       "SRVBGS",
       "SRVBIO",
@@ -1949,7 +1949,7 @@
     "unit": "PJ"
   },
   "SRV-PUB_FEC_WS": {
-    "serieName": [
+    "seriesNames": [
       "SRVAHT",
       "SRVBGS",
       "SRVBIO",
@@ -1980,7 +1980,7 @@
     "unit": "PJ"
   },
   "SRV_FEC": {
-    "serieName": [
+    "seriesNames": [
       "SRVAHT",
       "SRVBGS",
       "SRVBIO",
@@ -2011,7 +2011,7 @@
     "unit": "PJ"
   },
   "SRV_FEC_COK": {
-    "serieName": [
+    "seriesNames": [
       "SRVAHT",
       "SRVBGS",
       "SRVBIO",
@@ -2042,7 +2042,7 @@
     "unit": "PJ"
   },
   "SRV_FEC_DCs": {
-    "serieName": [
+    "seriesNames": [
       "SRVAHT",
       "SRVBGS",
       "SRVBIO",
@@ -2073,7 +2073,7 @@
     "unit": "PJ"
   },
   "SRV-DCs_EH": {
-    "serieName": [
+    "seriesNames": [
       "SRVHET-DC-LT"
     ],
     "colorScale": [
@@ -2082,7 +2082,7 @@
     "unit": "PJ"
   },
   "TRA_AVIDOM_FuelCons": {
-    "serieName": [
+    "seriesNames": [
       "TRABDL",
       "TRACNG",
       "TRADST",
@@ -2111,7 +2111,7 @@
     "unit": "PJ"
   },
   "TRA_AVIINT_FuelCons": {
-    "serieName": [
+    "seriesNames": [
       "TRABDL",
       "TRACNG",
       "TRADST",
@@ -2140,7 +2140,7 @@
     "unit": "PJ"
   },
   "TRA_FEC": {
-    "serieName": [
+    "seriesNames": [
       "TRABDL",
       "TRACNG",
       "TRADST",
@@ -2169,7 +2169,7 @@
     "unit": "PJ"
   },
   "TRA_Freight_Land_FuelCons": {
-    "serieName": [
+    "seriesNames": [
       "TRABDL",
       "TRACNG",
       "TRADST",
@@ -2198,7 +2198,7 @@
     "unit": "PJ"
   },
   "TRA_NAV_FuelCons": {
-    "serieName": [
+    "seriesNames": [
       "TRABDL",
       "TRACNG",
       "TRADST",
@@ -2227,7 +2227,7 @@
     "unit": "PJ"
   },
   "TRA_OTH_FuelCons": {
-    "serieName": [
+    "seriesNames": [
       "TRABDL",
       "TRACNG",
       "TRADST",
@@ -2256,7 +2256,7 @@
     "unit": "PJ"
   },
   "TRA_Passenger_Land_FuelCons": {
-    "serieName": [
+    "seriesNames": [
       "TRABDL",
       "TRACNG",
       "TRADST",
@@ -2285,7 +2285,7 @@
     "unit": "PJ"
   },
   "TRA_TURS_FuelCons": {
-    "serieName": [
+    "seriesNames": [
       "TRABDL",
       "TRACNG",
       "TRADST",
@@ -2314,7 +2314,7 @@
     "unit": "PJ"
   },
   "TRA_Passenger_Land_Distance": {
-    "serieName": [
+    "seriesNames": [
       "TRAPL",
       "TRAPM",
       "TRAPS"
@@ -2327,7 +2327,7 @@
     "unit": "Bpkm"
   },
   "RSD_BLD-N_TYPE": {
-    "serieName": [
+    "seriesNames": [
       "DMD_RSD-BLD-APT",
       "DMD_RSD-BLD-ATT",
       "DMD_RSD-BLD-DET"
@@ -2340,7 +2340,7 @@
     "unit": "kDwellings"
   },
   "TRA_F-HTRUCK-N_TYPE": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-F-HTRUCK-ICE",
       "DMD_TRA-F-HTRUCK-HEV",
       "DMD_TRA-F-HTRUCK-BEV",
@@ -2355,7 +2355,7 @@
     "unit": "kVehicles"
   },
   "TRA-Land_LumpInv": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-F-LAND",
       "DMD_TRA-P-LAND"
     ],
@@ -2366,7 +2366,7 @@
     "unit": "MEUR"
   },
   "TRA_F-MTRUCK-N_TYPE": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-F-MTRUCK-ICE",
       "DMD_TRA-F-MTRUCK-HEV",
       "DMD_TRA-F-MTRUCK-BEV",
@@ -2381,7 +2381,7 @@
     "unit": "kVehicles"
   },
   "TRA_P-CAR-N_TYPE": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-P-CAR-HEV",
       "DMD_TRA-P-CAR-BEV",
       "DMD_TRA-P-CAR-ICE",
@@ -2396,7 +2396,7 @@
     "unit": "kVehicles"
   },
   "PWR_Cap-N": {
-    "serieName": [
+    "seriesNames": [
       "PWR-SOL",
       "PWR-WIN-ON",
       "PWR-BIO",
@@ -2423,7 +2423,7 @@
     "unit": "GW"
   },
   "RSD_RTFT-DET_NCAP": {
-    "serieName": [
+    "seriesNames": [
       "R-RTFT-Det_G",
       "R-RTFT-Det_D",
       "R-RTFT-Det_E",
@@ -2438,7 +2438,7 @@
     "unit": "kUnits"
   },
   "RSD_WS-APT_NCAP": {
-    "serieName": [
+    "seriesNames": [
       "R-SC_Apt_ELC_N2",
       "R-SW_Apt_HET_N1",
       "R-SW_Apt_HET_N2",
@@ -2459,7 +2459,7 @@
     "unit": "kUnits"
   },
   "RSD_WS-ATT_NCAP": {
-    "serieName": [
+    "seriesNames": [
       "R-SC_Att_ELC_N1",
       "R-SW_Att_FPL_N1",
       "R-SW_Att_GAS_N1",
@@ -2484,7 +2484,7 @@
     "unit": "kUnits"
   },
   "RSD_WS-DET_NCAP": {
-    "serieName": [
+    "seriesNames": [
       "R-SC_Det_ELC_N1",
       "R-SW_Det_GAS_N1",
       "R-SW_Det_HET_N1",
@@ -2511,7 +2511,7 @@
     "unit": "kUnits"
   },
   "RSD_RTFT_NRG_SAVINGS": {
-    "serieName": [
+    "seriesNames": [
       "RSDSH_Det-G",
       "RSDSH_Apt-F",
       "RSDSH_Apt-G",
@@ -2538,7 +2538,7 @@
     "unit": "PJ"
   },
   "TRA_F-LTRUCK-N_TYPE": {
-    "serieName": [
+    "seriesNames": [
       "DMD_TRA-F-LTRUCK-BEV",
       "DMD_TRA-F-LTRUCK-ICE",
       "DMD_TRA-F-LTRUCK-HEV",
@@ -2553,7 +2553,7 @@
     "unit": "kVehicles"
   },
   "AGR_CO2N_Price": {
-    "serieName": [
+    "seriesNames": [
       "ENV-CO2"
     ],
     "colorScale": [
@@ -2562,7 +2562,7 @@
     "unit": "MEUR/kt"
   },
   "IND_CO2N_Price": {
-    "serieName": [
+    "seriesNames": [
       "ENV-CO2"
     ],
     "colorScale": [
@@ -2571,7 +2571,7 @@
     "unit": "MEUR/kt"
   },
   "IND_CO2P_Price": {
-    "serieName": [
+    "seriesNames": [
       "ENV-CO2"
     ],
     "colorScale": [
@@ -2580,7 +2580,7 @@
     "unit": "MEUR/kt"
   },
   "PWR_CO2N_Price": {
-    "serieName": [
+    "seriesNames": [
       "ENV-CO2"
     ],
     "colorScale": [
@@ -2589,7 +2589,7 @@
     "unit": "MEUR/kt"
   },
   "RSD_CO2_Price": {
-    "serieName": [
+    "seriesNames": [
       "ENV-CO2"
     ],
     "colorScale": [
@@ -2598,7 +2598,7 @@
     "unit": "MEUR/kt"
   },
   "SRV_CO2N_Price": {
-    "serieName": [
+    "seriesNames": [
       "ENV-CO2"
     ],
     "colorScale": [
@@ -2607,7 +2607,7 @@
     "unit": "MEUR/kt"
   },
   "SYS_CO2Price": {
-    "serieName": [
+    "seriesNames": [
       "ENV-CO2"
     ],
     "colorScale": [
@@ -2616,7 +2616,7 @@
     "unit": "MEUR/kt"
   },
   "TRA_CO2N_Price": {
-    "serieName": [
+    "seriesNames": [
       "ENV-CO2"
     ],
     "colorScale": [
@@ -2625,7 +2625,7 @@
     "unit": "MEUR/kt"
   },
   "SRV-DCs_EH_DH-Grid": {
-    "serieName": [
+    "seriesNames": [
       "HETC"
     ],
     "colorScale": [
@@ -2634,7 +2634,7 @@
     "unit": "PJ"
   },
   "RSD_RTFT-APT_NCAP": {
-    "serieName": [
+    "seriesNames": [
       "R-RTFT-Apt_F",
       "R-RTFT-Apt_G"
     ],
@@ -2645,7 +2645,7 @@
     "unit": "kUnits"
   },
   "RSD_RTFT-ATT_NCAP": {
-    "serieName": [
+    "seriesNames": [
       "R-RTFT-Att_D",
       "R-RTFT-Att_E",
       "R-RTFT-Att_F",
@@ -2660,7 +2660,7 @@
     "unit": "kUnits"
   },
   "SYS_DACS": {
-    "serieName": [
+    "seriesNames": [
       "INDCO2N",
       "INDCO2P",
       "RSDCO2",
@@ -2677,7 +2677,7 @@
     "unit": "kt"
   },
   "SUP_HYDROGEN": {
-    "serieName": [
+    "seriesNames": [
       "SH2PDELC_01",
       "SH2PCELC_01"
     ],
