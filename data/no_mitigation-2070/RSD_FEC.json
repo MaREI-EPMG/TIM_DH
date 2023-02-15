@@ -2,7 +2,7 @@
   "name": "no_mitigation-2070",
   "data": [
     {
-      "serieName": "RSDAHT",
+      "seriesNames": "RSDAHT",
       "seriesValues": [
         [
           2018,
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "serieName": "RSDAHT2",
+      "seriesNames": "RSDAHT2",
       "seriesValues": [
         [
           2018,
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "serieName": "RSDCOA",
+      "seriesNames": "RSDCOA",
       "seriesValues": [
         [
           2018,
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "serieName": "RSDELC",
+      "seriesNames": "RSDELC",
       "seriesValues": [
         [
           2018,
@@ -302,7 +302,7 @@
       ]
     },
     {
-      "serieName": "RSDGAS",
+      "seriesNames": "RSDGAS",
       "seriesValues": [
         [
           2018,
@@ -383,7 +383,7 @@
       ]
     },
     {
-      "serieName": "RSDHET_Apt",
+      "seriesNames": "RSDHET_Apt",
       "seriesValues": [
         [
           2018,
@@ -464,7 +464,7 @@
       ]
     },
     {
-      "serieName": "RSDHET_Att",
+      "seriesNames": "RSDHET_Att",
       "seriesValues": [
         [
           2018,
@@ -545,7 +545,7 @@
       ]
     },
     {
-      "serieName": "RSDHET_Det",
+      "seriesNames": "RSDHET_Det",
       "seriesValues": [
         [
           2018,
@@ -622,7 +622,7 @@
       ]
     },
     {
-      "serieName": "RSDKER",
+      "seriesNames": "RSDKER",
       "seriesValues": [
         [
           2018,
@@ -703,7 +703,7 @@
       ]
     },
     {
-      "serieName": "RSDLPG",
+      "seriesNames": "RSDLPG",
       "seriesValues": [
         [
           2018,
@@ -776,7 +776,7 @@
       ]
     },
     {
-      "serieName": "RSDPEA",
+      "seriesNames": "RSDPEA",
       "seriesValues": [
         [
           2018,
@@ -857,7 +857,7 @@
       ]
     },
     {
-      "serieName": "RSDSOL",
+      "seriesNames": "RSDSOL",
       "seriesValues": [
         [
           2018,
@@ -934,7 +934,7 @@
       ]
     },
     {
-      "serieName": "RSDWOO",
+      "seriesNames": "RSDWOO",
       "seriesValues": [
         [
           2018,
@@ -1003,7 +1003,7 @@
       ]
     },
     {
-      "serieName": "RSDBDL",
+      "seriesNames": "RSDBDL",
       "seriesValues": [
         [
           2019,
@@ -1080,7 +1080,7 @@
       ]
     },
     {
-      "serieName": "RSDETH",
+      "seriesNames": "RSDETH",
       "seriesValues": [
         [
           2019,
