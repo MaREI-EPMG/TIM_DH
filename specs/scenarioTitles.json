@@ -1,4 +1,6 @@
 {
-  "no_mitigation-2070": "No Mitigation",
-  "mitigation_cb-2070": "Carbon Budget"
+  "no_mitigation": "No Mitigation",
+  "mitigation_cb": "CB Mitigation",
+  "mitigation_cb_NoDH": "CB Mitigation - No DH",
+  "mitigation_cb_DH_Plus": "CB Mitigation - DH Plus",
 }
