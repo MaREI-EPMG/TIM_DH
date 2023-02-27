@@ -10,9 +10,5 @@
   {
     "name": "mitigation_cb_DH Excluded",
     "variants": [{ "name": "mitigation_cb_NoDH", "specs": null }]
-  },
-  {
-    "name": "mitigation_cb_DH Plus",
-    "variants": [{ "name": "mitigation_cb_DH_Plus", "specs": null }]
   }
 ]
