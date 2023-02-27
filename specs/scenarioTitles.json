@@ -1,5 +1,5 @@
 {
   "no_mitigation": "No Mitigation",
   "mitigation_cb": "CB Mitigation",
-  "mitigation_cb_NoDH": "CB Mitigation - No DH"
+  "mitigation_cb_nodh": "CB Mitigation - No DH"
 }
