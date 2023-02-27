@@ -8,7 +8,7 @@
     "variants": [{ "name": "mitigation_cb", "specs": null }]
   },
   {
-    "name": "mitigation_cb - No DH",
+    "name": "mitigation_cb_nodh",
     "variants": [{ "name": "mitigation_cb_nodh", "specs": null }]
   }
 ]
