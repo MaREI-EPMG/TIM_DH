@@ -1,5 +1,5 @@
 {
-  "no_mitigation": "No Mitigation",
-  "mitigation_cb": "CB Mitigation",
-  "mitigation_cb_nodh": "No DH CB Mitigation"
+  "mitigation_cb-i": "Climate Target (CT)",
+  "mitigation_cb_nodh-i": "CT - No DH",
+  "mitigation_cb_dhplus-i": "CT - DH+"
 }
