@@ -1170,10 +1170,18 @@
   },
   "PWR_Gen-HETC": {
     "seriesNames": [
-      "PWR-GAS"
+      "PWR-GAS",
+      "DH_ASHP_ELC_N1",
+      "DH_DC_SURPLUS_HEAT",
+      "DH_PWR_SURPLUS_HEAT",
+      "DH_SOL_N1"
     ],
     "colorScale": [
-      "#B0B2B8"
+      "#B0B2B8",
+      "#009DDC",
+      "#8B6318",
+	 "#00E0A5",
+      "#7A5C61"
     ],
     "unit": "PJ"
   },
@@ -1327,7 +1335,7 @@
       "#F2CD60",
       "#BA3772",
       "#B0B2B8",
-      "#A020F0",
+      "#29E16F",
       "#B5E679",
       "#09ECB5",
       "#7A5C61",
