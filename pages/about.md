@@ -22,4 +22,6 @@
 
 For any queries, Contact Jason Mc Guire - at jason.mcguire@ucc.ie
 
+Undiscounted annual shadow price of commodity balance (EQ_CombalM is used in Marginal Emission Cost and Sector Fuel Price) -this is the shadow price. 
+
 
