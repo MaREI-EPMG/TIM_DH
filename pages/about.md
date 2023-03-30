@@ -1,7 +1,5 @@
 # TIMES Ireland Model (TIM) District Heating Study
 
-## For any queries, Contact Jason Mc Guire - at jason.mcguire@ucc.ie
-
 ### To View Paper - https://www.overleaf.com/read/mxnskrvpfcsy 
 
 **Results 27-Feb-23**
@@ -16,4 +14,7 @@
 
 1.Issue with Apartment numbers after 2030. 
 2.Data Centre Capacity not defined correctly. 
-3.DH_Solar has low capacity as timeslice not setup yet 
+3.DH_Solar has low capacity as timeslice not setup yet.
+
+
+For any queries, Contact Jason Mc Guire - at jason.mcguire@ucc.ie

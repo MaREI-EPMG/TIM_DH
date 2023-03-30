@@ -1,5 +1,9 @@
 {
-  "mitigation_cb-i": "Climate Target (CT)",
-  "mitigation_cb_nodh-i": "CT - No DH",
-  "mitigation_cb_dhplus-i": "CT - DH+"
+  "mitigation_cb-z": "Climate Target (CT)",
+  "mitigation_cb_nodh-z": "CT - No DH",
+  "mitigation_cb_dhplus-z": "CT - DH+",
+  "mitigation_cb-nomaxc-z": "CT - Free",
+  "mitigation_cb-i": "Old CT",
+  "mitigation_cb_nodh-i": "Old CT - No DH",
+  "mitigation_cb_dhplus-i": "Old CT - DH+"
 }

@@ -1,5 +1,21 @@
 [
   {
+    "name": "mitigation_cb-z",
+    "variants": [{ "name": "mitigation_cb-z", "specs": null }]
+  },
+  {
+    "name": "mitigation_cb_nodh-z",
+    "variants": [{ "name": "mitigation_cb_nodh-z", "specs": null }]
+  },
+  {
+    "name": "mitigation_cb_dhplus-z",
+    "variants": [{ "name": "mitigation_cb_dhplus-z", "specs": null }]
+  },
+  {
+    "name": "mitigation_cb-nomaxc-z",
+    "variants": [{ "name": "mitigation_cb-nomaxc-z", "specs": null }]
+  },
+  {
     "name": "mitigation_cb-i",
     "variants": [{ "name": "mitigation_cb-i", "specs": null }]
   },

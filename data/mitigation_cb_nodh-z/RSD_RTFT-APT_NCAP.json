@@ -1,0 +1,36 @@
+{
+  "name": "mitigation_cb_nodh-z",
+  "data": [
+    {
+      "seriesName": "R-RTFT-Apt_E",
+      "seriesValues": [
+        [
+          2023,
+          11.0587468290344
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_F",
+      "seriesValues": [
+        [
+          2023,
+          5.29214438625659
+        ]
+      ]
+    },
+    {
+      "seriesName": "R-RTFT-Apt_G",
+      "seriesValues": [
+        [
+          2023,
+          6.52814765898871
+        ],
+        [
+          2024,
+          0.697180817950253
+        ]
+      ]
+    }
+  ]
+}
