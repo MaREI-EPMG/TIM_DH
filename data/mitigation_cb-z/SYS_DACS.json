@@ -1,0 +1,62 @@
+{
+  "name": "mitigation_cb-z",
+  "data": [
+    {
+      "seriesName": "INDCO2N",
+      "seriesValues": [
+        [
+          2025,
+          415.842996569684
+        ],
+        [
+          2029,
+          2215.00915764321
+        ],
+        [
+          2030,
+          3487.88199733804
+        ]
+      ]
+    },
+    {
+      "seriesName": "INDCO2P",
+      "seriesValues": [
+        [
+          2025,
+          2624.33877822624
+        ],
+        [
+          2030,
+          179.983143184706
+        ]
+      ]
+    },
+    {
+      "seriesName": "PWRCO2N",
+      "seriesValues": [
+        [
+          2025,
+          1885.22719486644
+        ]
+      ]
+    },
+    {
+      "seriesName": "RSDCO2",
+      "seriesValues": [
+        [
+          2025,
+          1402.75666840179
+        ]
+      ]
+    },
+    {
+      "seriesName": "SRVCO2N",
+      "seriesValues": [
+        [
+          2025,
+          373.415608323234
+        ]
+      ]
+    }
+  ]
+}
