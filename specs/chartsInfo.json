@@ -558,10 +558,24 @@
   },
   "SRV-DCs_EH_DH-Grid": {
     "seriesNames": [
-      "HETC"
+      "P-TH-OCGT-GAS00-SK3",
+      "P-TH-OCGT-GAS00-SK4",
+      "DH_DC_SURPLUS_HEAT",
+      "DH_IND_SURPLUS_HEAT",
+      "DH_PWR_SURPLUS_HEAT",
+      "DH_SOL_N1",
+      "DH_STG_HETC_N1",
+      "DH_STG_HETD_N1"
     ],
     "colorScale": [
-      "#9C427F"
+      "#80B387",
+      "#00664B",
+      "#161315",
+      "#849272",
+      "#F2CD60",
+      "#B0B2B8",
+      "#6EE299",
+      "#ACB842"
     ],
     "unit": "PJ"
   },
