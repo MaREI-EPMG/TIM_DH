@@ -4,24 +4,19 @@
 
 **Results 29-Mar-23**
 1. DH Plus - increases same rate as CT upto 2035.
-2. DH Supply graph to be updated.  
-3. Large LPG growth, slow Coal descrease ( check Fireplace technology)
+2. "PWR_Gen_HETC" DH Supply graph to be updated but it doesnt come out after script. Will have to do this manually.  
+3. Large LPG growth, slow Coal descrease ( Fireplace technology not fixed fuel share )
 4. CT - Free shows no growth constraints. 
+5. Limited Biofuels available - future work. 
+6. CB3 not defined - the model could provide insight here. 
+7. Graphs retrofit colours
 
-**Results 23-Mar-23**
-1.Issue with Apartment numbers after 2030. 
-2.Data Centre Capacity not defined correctly. 
-3.DH_Solar has low capacity as timeslice not setup yet.
+Notes:
+1. Undiscounted annual shadow price of commodity balance (EQ_CombalM is used in Marginal Emission Cost and Sector Fuel Price) 
 
-**Results 27-Feb-23**
-1. Biodiesel came in too strong in 2019 in the residential sector. From 2021 onwards, the increase is slow as per max growth starting in 2021 - this will be amended in the next update. 
-2. CCS comes in very strong in 2040 - with no CCS, the model could not find a solution. 
-3. Differences in house stock per scenario to be investigated. 
-4. "PWR_Gen_HETC" is missing in the current results. The DH is oversupplied from Data centres; this graph will be added to the next iteration of results. 
-5. DH Plus Scenario to be added. 
 
 For any queries, Contact Jason Mc Guire - at jason.mcguire@ucc.ie
 
-Undiscounted annual shadow price of commodity balance (EQ_CombalM is used in Marginal Emission Cost and Sector Fuel Price) -this is the shadow price. 
+Undiscounted annual shadow price of commodity balance (EQ_CombalM is used in Marginal Emission Cost and Sector Fuel Price) 
 
 
