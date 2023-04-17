@@ -1162,6 +1162,29 @@
     ],
     "unit": "PJ"
   },
+ "PWR_Gen-HETC": {
+	"seriesNames": [
+      "P-TH-OCGT-GAS00-SK3",
+      "P-TH-OCGT-GAS00-SK4",
+      "DH_DC_SURPLUS_HEAT",
+      "DH_IND_SURPLUS_HEAT",
+      "DH_PWR_SURPLUS_HEAT",
+      "DH_SOL_N1",
+      "DH_STG_HETC_N1",
+      "DH_STG_HETD_N1"
+    ],
+    "colorScale": [
+      "#80B387",
+      "#00664B",
+      "#161315",
+      "#849272",
+      "#F2CD60",
+      "#B0B2B8",
+      "#6EE299",
+      "#ACB842"
+    ],
+    "unit": "PJ"
+  },
   "RSD_WS-ATT_NCAP": {
     "seriesNames": [
       "R-SW_Att_FPL_N1",
