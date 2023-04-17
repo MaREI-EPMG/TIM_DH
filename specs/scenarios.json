@@ -10,21 +10,5 @@
   {
     "name": "mitigation_cb_dhplus-z17",
     "variants": [{ "name": "mitigation_cb_dhplus-z", "specs": null }]
-  },
-  {
-    "name": "mitigation_cb-nomaxc-z",
-    "variants": [{ "name": "mitigation_cb-nomaxc-z", "specs": null }]
-  },
-  {
-    "name": "mitigation_cb-i",
-    "variants": [{ "name": "mitigation_cb-i", "specs": null }]
-  },
-  {
-    "name": "mitigation_cb_nodh-i",
-    "variants": [{ "name": "mitigation_cb_nodh-i", "specs": null }]
-  },
-  {
-    "name": "mitigation_cb_dhplus-i",
-    "variants": [{ "name": "mitigation_cb_dhplus-i", "specs": null }]
   }
 ]
