@@ -1,14 +1,14 @@
 [
   {
-    "name": "mitigation_cb",
+    "name": "mitigation_cb-z17",
     "variants": [{ "name": "mitigation_cb-z", "specs": null }]
   },
   {
-    "name": "mitigation_cb_nodh",
+    "name": "mitigation_cb_nodh-z17",
     "variants": [{ "name": "mitigation_cb_nodh-z", "specs": null }]
   },
   {
-    "name": "mitigation_cb_dhplus",
+    "name": "mitigation_cb_dhplus-z17",
     "variants": [{ "name": "mitigation_cb_dhplus-z", "specs": null }]
   }
 ]
