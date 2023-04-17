@@ -8,7 +8,7 @@
     "variants": [{ "name": "mitigation_cb_nodh-z17", "specs": null }]
   },
   {
-    "name": "mitigation_cb_dhplus",
+    "name": "mitigation_cb_dhplus-z17",
     "variants": [{ "name": "mitigation_cb_dhplus-z17", "specs": null }]
   }
 ]
