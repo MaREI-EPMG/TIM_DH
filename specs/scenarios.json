@@ -1,14 +1,14 @@
 [
   {
-    "name": "mitigation_cb",
-    "variants": [{ "name": "mitigation_cb", "specs": null }]
+    "name": "mitigation_cb-z17",
+    "variants": [{ "name": "mitigation_cb-z17", "specs": null }]
   },
   {
-    "name": "mitigation_cb_nodh",
-    "variants": [{ "name": "mitigation_cb_nodh", "specs": null }]
+    "name": "mitigation_cb_nodh-z17",
+    "variants": [{ "name": "mitigation_cb_nodh-z17", "specs": null }]
   },
   {
     "name": "mitigation_cb_dhplus",
-    "variants": [{ "name": "mitigation_cb_dhplus", "specs": null }]
+    "variants": [{ "name": "mitigation_cb_dhplus-z17", "specs": null }]
   }
 ]
