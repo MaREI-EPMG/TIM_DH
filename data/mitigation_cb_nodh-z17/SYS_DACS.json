@@ -1,0 +1,75 @@
+{
+  "name": "mitigation_cb_nodh-z17",
+  "data": [
+    {
+      "seriesName": "INDCO2N",
+      "seriesValues": [
+        [
+          2025,
+          415.842996569665
+        ],
+        [
+          2029,
+          2211.65738361685
+        ],
+        [
+          2030,
+          3487.88199733804
+        ]
+      ]
+    },
+    {
+      "seriesName": "INDCO2P",
+      "seriesValues": [
+        [
+          2025,
+          2624.33877822624
+        ],
+        [
+          2030,
+          179.983143184706
+        ]
+      ]
+    },
+    {
+      "seriesName": "PWRCO2N",
+      "seriesValues": [
+        [
+          2025,
+          2352.49321080454
+        ]
+      ]
+    },
+    {
+      "seriesName": "RSDCO2",
+      "seriesValues": [
+        [
+          2025,
+          737.969114216709
+        ],
+        [
+          2050,
+          1441.85979732675
+        ]
+      ]
+    },
+    {
+      "seriesName": "SRVCO2N",
+      "seriesValues": [
+        [
+          2025,
+          59.900070908137
+        ]
+      ]
+    },
+    {
+      "seriesName": "TRACO2N",
+      "seriesValues": [
+        [
+          2030,
+          229.8190027605
+        ]
+      ]
+    }
+  ]
+}
