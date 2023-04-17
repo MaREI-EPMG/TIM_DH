@@ -2,7 +2,7 @@
   "name": "mitigation_cb_dhplus-z17",
   "data": [
     {
-      "seriesName": "AGRDST",
+      "serieName": "AGRDST",
       "seriesValues": [
         [
           2018,
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "seriesName": "AGRELC",
+      "serieName": "AGRELC",
       "seriesValues": [
         [
           2018,
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "seriesName": "AGRLPG",
+      "serieName": "AGRLPG",
       "seriesValues": [
         [
           2019,
@@ -349,7 +349,7 @@
       ]
     },
     {
-      "seriesName": "AGRGAS",
+      "serieName": "AGRGAS",
       "seriesValues": [
         [
           2023,
@@ -434,7 +434,7 @@
       ]
     },
     {
-      "seriesName": "AGRGEO",
+      "serieName": "AGRGEO",
       "seriesValues": [
         [
           2023,
@@ -519,7 +519,7 @@
       ]
     },
     {
-      "seriesName": "AGRSOL",
+      "serieName": "AGRSOL",
       "seriesValues": [
         [
           2023,
@@ -604,7 +604,7 @@
       ]
     },
     {
-      "seriesName": "AGRBIO",
+      "serieName": "AGRBIO",
       "seriesValues": [
         [
           2024,
@@ -681,7 +681,7 @@
       ]
     },
     {
-      "seriesName": "AGRBDL",
+      "serieName": "AGRBDL",
       "seriesValues": [
         [
           2034,

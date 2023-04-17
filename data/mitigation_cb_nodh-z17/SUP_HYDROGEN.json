@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-z17",
   "data": [
     {
-      "seriesName": "SH2PCELC_01",
+      "serieName": "SH2PCELC_01",
       "seriesValues": [
         [
           2030,
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "seriesName": "SH2PDELC_01",
+      "serieName": "SH2PDELC_01",
       "seriesValues": [
         [
           2030,

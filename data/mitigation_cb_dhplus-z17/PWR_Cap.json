@@ -2,7 +2,7 @@
   "name": "mitigation_cb_dhplus-z17",
   "data": [
     {
-      "seriesName": "PWR-COA",
+      "serieName": "PWR-COA",
       "seriesValues": [
         [
           2018,
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "seriesName": "PWR-GAS",
+      "serieName": "PWR-GAS",
       "seriesValues": [
         [
           2018,
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "seriesName": "PWR-HYD",
+      "serieName": "PWR-HYD",
       "seriesValues": [
         [
           2018,
@@ -337,7 +337,7 @@
       ]
     },
     {
-      "seriesName": "PWR-OIL",
+      "serieName": "PWR-OIL",
       "seriesValues": [
         [
           2018,
@@ -446,7 +446,7 @@
       ]
     },
     {
-      "seriesName": "PWR-PEA",
+      "serieName": "PWR-PEA",
       "seriesValues": [
         [
           2018,
@@ -471,7 +471,7 @@
       ]
     },
     {
-      "seriesName": "PWR-WIN-OF",
+      "serieName": "PWR-WIN-OF",
       "seriesValues": [
         [
           2018,
@@ -608,7 +608,7 @@
       ]
     },
     {
-      "seriesName": "PWR-WIN-ON",
+      "serieName": "PWR-WIN-ON",
       "seriesValues": [
         [
           2018,
@@ -745,7 +745,7 @@
       ]
     },
     {
-      "seriesName": "PWR-SOL",
+      "serieName": "PWR-SOL",
       "seriesValues": [
         [
           2019,
@@ -878,7 +878,7 @@
       ]
     },
     {
-      "seriesName": "PWR-BIO",
+      "serieName": "PWR-BIO",
       "seriesValues": [
         [
           2023,
@@ -983,7 +983,7 @@
       ]
     },
     {
-      "seriesName": "PWR-BIO-CCS",
+      "serieName": "PWR-BIO-CCS",
       "seriesValues": [
         [
           2040,

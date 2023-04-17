@@ -2,7 +2,7 @@
   "name": "mitigation_cb_dhplus-z17",
   "data": [
     {
-      "seriesName": "SBIORGAS02",
+      "serieName": "SBIORGAS02",
       "seriesValues": [
         [
           2018,
@@ -111,7 +111,7 @@
       ]
     },
     {
-      "seriesName": "SBIORGAS01",
+      "serieName": "SBIORGAS01",
       "seriesValues": [
         [
           2019,
@@ -244,7 +244,7 @@
       ]
     },
     {
-      "seriesName": "SBIORGAS06",
+      "serieName": "SBIORGAS06",
       "seriesValues": [
         [
           2023,
@@ -361,7 +361,7 @@
       ]
     },
     {
-      "seriesName": "SBIORGAS03",
+      "serieName": "SBIORGAS03",
       "seriesValues": [
         [
           2025,
@@ -470,7 +470,7 @@
       ]
     },
     {
-      "seriesName": "SBIORGAS05",
+      "serieName": "SBIORGAS05",
       "seriesValues": [
         [
           2025,

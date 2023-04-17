@@ -2,7 +2,7 @@
   "name": "mitigation_cb_dhplus-z17",
   "data": [
     {
-      "seriesName": "PWR-SOL",
+      "serieName": "PWR-SOL",
       "seriesValues": [
         [
           2019,
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "seriesName": "PWR-WIN-ON",
+      "serieName": "PWR-WIN-ON",
       "seriesValues": [
         [
           2019,
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "seriesName": "PWR-BIO",
+      "serieName": "PWR-BIO",
       "seriesValues": [
         [
           2023,
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "seriesName": "PWR-GAS",
+      "serieName": "PWR-GAS",
       "seriesValues": [
         [
           2023,
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "seriesName": "PWR-WIN-OF",
+      "serieName": "PWR-WIN-OF",
       "seriesValues": [
         [
           2027,
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "seriesName": "PWR-BIO-CCS",
+      "serieName": "PWR-BIO-CCS",
       "seriesValues": [
         [
           2035,

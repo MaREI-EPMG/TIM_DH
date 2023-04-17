@@ -2,7 +2,7 @@
   "name": "mitigation_cb-z17",
   "data": [
     {
-      "seriesName": "FIX",
+      "serieName": "FIX",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "seriesName": "INV",
+      "serieName": "INV",
       "seriesValues": [
         [
           2018,
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "seriesName": "VAR",
+      "serieName": "VAR",
       "seriesValues": [
         [
           2018,
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "seriesName": "VARX",
+      "serieName": "VARX",
       "seriesValues": [
         [
           2018,

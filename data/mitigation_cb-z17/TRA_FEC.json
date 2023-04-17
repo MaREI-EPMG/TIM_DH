@@ -2,7 +2,7 @@
   "name": "mitigation_cb-z17",
   "data": [
     {
-      "seriesName": "TRABDL",
+      "serieName": "TRABDL",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "seriesName": "TRACNG",
+      "serieName": "TRACNG",
       "seriesValues": [
         [
           2018,
@@ -220,7 +220,7 @@
       ]
     },
     {
-      "seriesName": "TRADST",
+      "serieName": "TRADST",
       "seriesValues": [
         [
           2018,
@@ -357,7 +357,7 @@
       ]
     },
     {
-      "seriesName": "TRAELC",
+      "serieName": "TRAELC",
       "seriesValues": [
         [
           2018,
@@ -494,7 +494,7 @@
       ]
     },
     {
-      "seriesName": "TRAETH",
+      "serieName": "TRAETH",
       "seriesValues": [
         [
           2018,
@@ -631,7 +631,7 @@
       ]
     },
     {
-      "seriesName": "TRAGSL",
+      "serieName": "TRAGSL",
       "seriesValues": [
         [
           2018,
@@ -768,7 +768,7 @@
       ]
     },
     {
-      "seriesName": "TRAKER",
+      "serieName": "TRAKER",
       "seriesValues": [
         [
           2018,
@@ -905,7 +905,7 @@
       ]
     },
     {
-      "seriesName": "TRABNG",
+      "serieName": "TRABNG",
       "seriesValues": [
         [
           2019,
@@ -918,7 +918,7 @@
       ]
     },
     {
-      "seriesName": "TRALNG",
+      "serieName": "TRALNG",
       "seriesValues": [
         [
           2019,
@@ -975,7 +975,7 @@
       ]
     },
     {
-      "seriesName": "TRABJK",
+      "serieName": "TRABJK",
       "seriesValues": [
         [
           2024,
@@ -1088,7 +1088,7 @@
       ]
     },
     {
-      "seriesName": "TRAH2",
+      "serieName": "TRAH2",
       "seriesValues": [
         [
           2030,

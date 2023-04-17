@@ -2,7 +2,7 @@
   "name": "mitigation_cb_dhplus-z17",
   "data": [
     {
-      "seriesName": "ENV-CO2",
+      "serieName": "ENV-CO2",
       "seriesValues": [
         [
           2023,

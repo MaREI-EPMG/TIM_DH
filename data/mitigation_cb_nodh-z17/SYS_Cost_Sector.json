@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-z17",
   "data": [
     {
-      "seriesName": "PRC_RSD",
+      "serieName": "PRC_RSD",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "seriesName": "PRC_SUP",
+      "serieName": "PRC_SUP",
       "seriesValues": [
         [
           2018,
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "seriesName": "PRC_TRA",
+      "serieName": "PRC_TRA",
       "seriesValues": [
         [
           2018,
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "seriesName": "PRC_AGR",
+      "serieName": "PRC_AGR",
       "seriesValues": [
         [
           2019,
@@ -546,7 +546,7 @@
       ]
     },
     {
-      "seriesName": "PRC_PWR",
+      "serieName": "PRC_PWR",
       "seriesValues": [
         [
           2019,
@@ -679,7 +679,7 @@
       ]
     },
     {
-      "seriesName": "PRC_SRV",
+      "serieName": "PRC_SRV",
       "seriesValues": [
         [
           2019,
@@ -812,7 +812,7 @@
       ]
     },
     {
-      "seriesName": "PRC_IND",
+      "serieName": "PRC_IND",
       "seriesValues": [
         [
           2030,

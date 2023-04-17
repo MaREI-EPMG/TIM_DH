@@ -2,7 +2,7 @@
   "name": "mitigation_cb-z17",
   "data": [
     {
-      "seriesName": "DMD_TRA-F-LAND",
+      "serieName": "DMD_TRA-F-LAND",
       "seriesValues": [
         [
           2019,
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "seriesName": "DMD_TRA-P-LAND",
+      "serieName": "DMD_TRA-P-LAND",
       "seriesValues": [
         [
           2019,

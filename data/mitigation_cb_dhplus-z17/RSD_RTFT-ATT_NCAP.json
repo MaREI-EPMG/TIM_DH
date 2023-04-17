@@ -2,7 +2,7 @@
   "name": "mitigation_cb_dhplus-z17",
   "data": [
     {
-      "seriesName": "R-RTFT-Att_D",
+      "serieName": "R-RTFT-Att_D",
       "seriesValues": [
         [
           2023,
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "seriesName": "R-RTFT-Att_E",
+      "serieName": "R-RTFT-Att_E",
       "seriesValues": [
         [
           2023,
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "seriesName": "R-RTFT-Att_F",
+      "serieName": "R-RTFT-Att_F",
       "seriesValues": [
         [
           2023,
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "seriesName": "R-RTFT-Att_G",
+      "serieName": "R-RTFT-Att_G",
       "seriesValues": [
         [
           2023,

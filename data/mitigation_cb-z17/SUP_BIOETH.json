@@ -2,7 +2,7 @@
   "name": "mitigation_cb-z17",
   "data": [
     {
-      "seriesName": "IMPBIOETH1G_S1",
+      "serieName": "IMPBIOETH1G_S1",
       "seriesValues": [
         [
           2018,
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "seriesName": "IMPBIOETH1G_S2",
+      "serieName": "IMPBIOETH1G_S2",
       "seriesValues": [
         [
           2018,
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "seriesName": "SBIORETH01",
+      "serieName": "SBIORETH01",
       "seriesValues": [
         [
           2023,
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "seriesName": "SBIORETH03",
+      "serieName": "SBIORETH03",
       "seriesValues": [
         [
           2023,

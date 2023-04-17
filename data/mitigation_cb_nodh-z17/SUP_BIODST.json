@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-z17",
   "data": [
     {
-      "seriesName": "IMPBIODST1G_S1",
+      "serieName": "IMPBIODST1G_S1",
       "seriesValues": [
         [
           2018,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "seriesName": "IMPBIODST1G_S2",
+      "serieName": "IMPBIODST1G_S2",
       "seriesValues": [
         [
           2018,
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "seriesName": "SBIORDST02",
+      "serieName": "SBIORDST02",
       "seriesValues": [
         [
           2019,
@@ -225,7 +225,7 @@
       ]
     },
     {
-      "seriesName": "SBIORDST03",
+      "serieName": "SBIORDST03",
       "seriesValues": [
         [
           2019,
@@ -350,7 +350,7 @@
       ]
     },
     {
-      "seriesName": "SBIORDST01",
+      "serieName": "SBIORDST01",
       "seriesValues": [
         [
           2023,
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "seriesName": "SBIORDST04",
+      "serieName": "SBIORDST04",
       "seriesValues": [
         [
           2023,
@@ -528,7 +528,7 @@
       ]
     },
     {
-      "seriesName": "SBIORDST05",
+      "serieName": "SBIORDST05",
       "seriesValues": [
         [
           2023,

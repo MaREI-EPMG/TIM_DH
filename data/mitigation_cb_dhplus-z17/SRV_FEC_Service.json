@@ -2,7 +2,7 @@
   "name": "mitigation_cb_dhplus-z17",
   "data": [
     {
-      "seriesName": "DMD_SRV-CS_DC",
+      "serieName": "DMD_SRV-CS_DC",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "seriesName": "DMD_SRV-PU_PLIG",
+      "serieName": "DMD_SRV-PU_PLIG",
       "seriesValues": [
         [
           2018,
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "seriesName": "SRV-CS_NRGSRV-CK",
+      "serieName": "SRV-CS_NRGSRV-CK",
       "seriesValues": [
         [
           2018,
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "seriesName": "SRV-CS_NRGSRV-LIG",
+      "serieName": "SRV-CS_NRGSRV-LIG",
       "seriesValues": [
         [
           2018,
@@ -550,7 +550,7 @@
       ]
     },
     {
-      "seriesName": "SRV-CS_NRGSRV-OEL",
+      "serieName": "SRV-CS_NRGSRV-OEL",
       "seriesValues": [
         [
           2018,
@@ -687,7 +687,7 @@
       ]
     },
     {
-      "seriesName": "SRV-CS_NRGSRV-REF",
+      "serieName": "SRV-CS_NRGSRV-REF",
       "seriesValues": [
         [
           2018,
@@ -824,7 +824,7 @@
       ]
     },
     {
-      "seriesName": "SRV-CS_NRGSRV-WS",
+      "serieName": "SRV-CS_NRGSRV-WS",
       "seriesValues": [
         [
           2018,
@@ -961,7 +961,7 @@
       ]
     },
     {
-      "seriesName": "SRV-PU_NRGSRV-CK",
+      "serieName": "SRV-PU_NRGSRV-CK",
       "seriesValues": [
         [
           2018,
@@ -1098,7 +1098,7 @@
       ]
     },
     {
-      "seriesName": "SRV-PU_NRGSRV-LIG",
+      "serieName": "SRV-PU_NRGSRV-LIG",
       "seriesValues": [
         [
           2018,
@@ -1235,7 +1235,7 @@
       ]
     },
     {
-      "seriesName": "SRV-PU_NRGSRV-OEL",
+      "serieName": "SRV-PU_NRGSRV-OEL",
       "seriesValues": [
         [
           2018,
@@ -1372,7 +1372,7 @@
       ]
     },
     {
-      "seriesName": "SRV-PU_NRGSRV-REF",
+      "serieName": "SRV-PU_NRGSRV-REF",
       "seriesValues": [
         [
           2018,
@@ -1509,7 +1509,7 @@
       ]
     },
     {
-      "seriesName": "SRV-PU_NRGSRV-WS",
+      "serieName": "SRV-PU_NRGSRV-WS",
       "seriesValues": [
         [
           2018,

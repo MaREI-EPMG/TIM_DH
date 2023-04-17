@@ -2,7 +2,7 @@
   "name": "mitigation_cb_dhplus-z17",
   "data": [
     {
-      "seriesName": "TRAPL",
+      "serieName": "TRAPL",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "seriesName": "TRAPM",
+      "serieName": "TRAPM",
       "seriesValues": [
         [
           2018,
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "seriesName": "TRAPS",
+      "serieName": "TRAPS",
       "seriesValues": [
         [
           2018,

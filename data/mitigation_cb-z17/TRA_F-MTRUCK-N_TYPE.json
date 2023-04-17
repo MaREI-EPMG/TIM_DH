@@ -2,7 +2,7 @@
   "name": "mitigation_cb-z17",
   "data": [
     {
-      "seriesName": "DMD_TRA-F-MTRUCK-ICE",
+      "serieName": "DMD_TRA-F-MTRUCK-ICE",
       "seriesValues": [
         [
           2019,
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "seriesName": "DMD_TRA-F-MTRUCK-HEV",
+      "serieName": "DMD_TRA-F-MTRUCK-HEV",
       "seriesValues": [
         [
           2023,
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "seriesName": "DMD_TRA-F-MTRUCK-BEV",
+      "serieName": "DMD_TRA-F-MTRUCK-BEV",
       "seriesValues": [
         [
           2025,
@@ -173,7 +173,7 @@
       ]
     },
     {
-      "seriesName": "DMD_TRA-F-MTRUCK-FCV",
+      "serieName": "DMD_TRA-F-MTRUCK-FCV",
       "seriesValues": [
         [
           2030,

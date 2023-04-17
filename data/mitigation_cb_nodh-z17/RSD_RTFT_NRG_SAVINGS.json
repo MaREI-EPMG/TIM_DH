@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-z17",
   "data": [
     {
-      "seriesName": "RSDSH_Det-F",
+      "serieName": "RSDSH_Det-F",
       "seriesValues": [
         [
           2019,
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "seriesName": "RSDSH_Det-G",
+      "serieName": "RSDSH_Det-G",
       "seriesValues": [
         [
           2019,
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "seriesName": "RSDSH_Apt-F",
+      "serieName": "RSDSH_Apt-F",
       "seriesValues": [
         [
           2023,
@@ -385,7 +385,7 @@
       ]
     },
     {
-      "seriesName": "RSDSH_Apt-G",
+      "serieName": "RSDSH_Apt-G",
       "seriesValues": [
         [
           2023,
@@ -502,7 +502,7 @@
       ]
     },
     {
-      "seriesName": "RSDSH_Att-D",
+      "serieName": "RSDSH_Att-D",
       "seriesValues": [
         [
           2023,
@@ -619,7 +619,7 @@
       ]
     },
     {
-      "seriesName": "RSDSH_Att-E",
+      "serieName": "RSDSH_Att-E",
       "seriesValues": [
         [
           2023,
@@ -736,7 +736,7 @@
       ]
     },
     {
-      "seriesName": "RSDSH_Att-F",
+      "serieName": "RSDSH_Att-F",
       "seriesValues": [
         [
           2023,
@@ -853,7 +853,7 @@
       ]
     },
     {
-      "seriesName": "RSDSH_Att-G",
+      "serieName": "RSDSH_Att-G",
       "seriesValues": [
         [
           2023,
@@ -970,7 +970,7 @@
       ]
     },
     {
-      "seriesName": "RSDSH_Det-D",
+      "serieName": "RSDSH_Det-D",
       "seriesValues": [
         [
           2023,
@@ -1087,7 +1087,7 @@
       ]
     },
     {
-      "seriesName": "RSDSH_Det-E",
+      "serieName": "RSDSH_Det-E",
       "seriesValues": [
         [
           2023,
@@ -1204,7 +1204,7 @@
       ]
     },
     {
-      "seriesName": "RSDSH_Det-AB",
+      "serieName": "RSDSH_Det-AB",
       "seriesValues": [
         [
           2039,
@@ -1257,7 +1257,7 @@
       ]
     },
     {
-      "seriesName": "RSDSH_Det-C",
+      "serieName": "RSDSH_Det-C",
       "seriesValues": [
         [
           2046,

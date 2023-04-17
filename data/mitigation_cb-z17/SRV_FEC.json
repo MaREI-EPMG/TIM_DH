@@ -2,7 +2,7 @@
   "name": "mitigation_cb-z17",
   "data": [
     {
-      "seriesName": "SRVAHT",
+      "serieName": "SRVAHT",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "seriesName": "SRVBGS",
+      "serieName": "SRVBGS",
       "seriesValues": [
         [
           2018,
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "seriesName": "SRVBIO",
+      "serieName": "SRVBIO",
       "seriesValues": [
         [
           2018,
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "seriesName": "SRVCOA",
+      "serieName": "SRVCOA",
       "seriesValues": [
         [
           2018,
@@ -338,7 +338,7 @@
       ]
     },
     {
-      "seriesName": "SRVELC",
+      "serieName": "SRVELC",
       "seriesValues": [
         [
           2018,
@@ -475,7 +475,7 @@
       ]
     },
     {
-      "seriesName": "SRVELC-DC-C",
+      "serieName": "SRVELC-DC-C",
       "seriesValues": [
         [
           2018,
@@ -612,7 +612,7 @@
       ]
     },
     {
-      "seriesName": "SRVGAS",
+      "serieName": "SRVGAS",
       "seriesValues": [
         [
           2018,
@@ -713,7 +713,7 @@
       ]
     },
     {
-      "seriesName": "SRVLPG",
+      "serieName": "SRVLPG",
       "seriesValues": [
         [
           2018,
@@ -750,7 +750,7 @@
       ]
     },
     {
-      "seriesName": "SRVOIL",
+      "serieName": "SRVOIL",
       "seriesValues": [
         [
           2018,
@@ -807,7 +807,7 @@
       ]
     },
     {
-      "seriesName": "SRVSOL",
+      "serieName": "SRVSOL",
       "seriesValues": [
         [
           2018,
@@ -944,7 +944,7 @@
       ]
     },
     {
-      "seriesName": "SRVHET",
+      "serieName": "SRVHET",
       "seriesValues": [
         [
           2020,
@@ -1073,7 +1073,7 @@
       ]
     },
     {
-      "seriesName": "SRVAHT2",
+      "serieName": "SRVAHT2",
       "seriesValues": [
         [
           2023,

@@ -2,7 +2,7 @@
   "name": "mitigation_cb-z17",
   "data": [
     {
-      "seriesName": "SEAI_BIOENERGY",
+      "serieName": "SEAI_BIOENERGY",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "seriesName": "SEAI_NATGAS",
+      "serieName": "SEAI_NATGAS",
       "seriesValues": [
         [
           2018,
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "seriesName": "SEAI_OTHER_RENEWABLES",
+      "serieName": "SEAI_OTHER_RENEWABLES",
       "seriesValues": [
         [
           2018,
@@ -345,7 +345,7 @@
       ]
     },
     {
-      "seriesName": "SEAI_PEAT",
+      "serieName": "SEAI_PEAT",
       "seriesValues": [
         [
           2018,
