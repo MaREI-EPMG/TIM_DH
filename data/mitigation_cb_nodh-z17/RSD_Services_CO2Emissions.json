@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-z17",
   "data": [
     {
-      "serieName": "RSD_BLD-XXX_NRGSRV-WS",
+      "seriesName": "RSD_BLD-XXX_NRGSRV-WS",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "serieName": "RSD_BLD-XXX_NRGSRV-CK",
+      "seriesName": "RSD_BLD-XXX_NRGSRV-CK",
       "seriesValues": [
         [
           2023,

@@ -2,7 +2,7 @@
   "name": "mitigation_cb-z17",
   "data": [
     {
-      "serieName": "R-SC_Det_ELC_N1",
+      "seriesName": "R-SC_Det_ELC_N1",
       "seriesValues": [
         [
           2019,
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Det_HET_N1",
+      "seriesName": "R-SW_Det_HET_N1",
       "seriesValues": [
         [
           2019,
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Det_HET_N2",
+      "seriesName": "R-SW_Det_HET_N2",
       "seriesValues": [
         [
           2019,
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Det_KER_N1",
+      "seriesName": "R-SW_Det_KER_N1",
       "seriesValues": [
         [
           2019,
@@ -178,7 +178,7 @@
       ]
     },
     {
-      "serieName": "R-WH_Det_ELC_N1",
+      "seriesName": "R-WH_Det_ELC_N1",
       "seriesValues": [
         [
           2019,
@@ -299,7 +299,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Det_ELC_N1",
+      "seriesName": "R-SH_Det_ELC_N1",
       "seriesValues": [
         [
           2020,
@@ -308,7 +308,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Det_LPG_N1",
+      "seriesName": "R-SW_Det_LPG_N1",
       "seriesValues": [
         [
           2020,
@@ -329,7 +329,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Det_KER_N1",
+      "seriesName": "R-SH_Det_KER_N1",
       "seriesValues": [
         [
           2021,
@@ -370,7 +370,7 @@
       ]
     },
     {
-      "serieName": "R-HC_Det_ELC_HPN2-AB",
+      "seriesName": "R-HC_Det_ELC_HPN2-AB",
       "seriesValues": [
         [
           2023,
@@ -487,7 +487,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Det_KER_N2",
+      "seriesName": "R-SW_Det_KER_N2",
       "seriesValues": [
         [
           2023,
@@ -540,7 +540,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Det_LPG_N1",
+      "seriesName": "R-SH_Det_LPG_N1",
       "seriesValues": [
         [
           2042,

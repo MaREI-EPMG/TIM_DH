@@ -2,7 +2,7 @@
   "name": "mitigation_cb_dhplus-z17",
   "data": [
     {
-      "serieName": "SEAI_BIOENERGY",
+      "seriesName": "SEAI_BIOENERGY",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "serieName": "SEAI_COAL",
+      "seriesName": "SEAI_COAL",
       "seriesValues": [
         [
           2018,
@@ -272,7 +272,7 @@
       ]
     },
     {
-      "serieName": "SEAI_ELECTRICITY",
+      "seriesName": "SEAI_ELECTRICITY",
       "seriesValues": [
         [
           2018,
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "serieName": "SEAI_NATGAS",
+      "seriesName": "SEAI_NATGAS",
       "seriesValues": [
         [
           2018,
@@ -546,7 +546,7 @@
       ]
     },
     {
-      "serieName": "SEAI_OIL",
+      "seriesName": "SEAI_OIL",
       "seriesValues": [
         [
           2018,
@@ -683,7 +683,7 @@
       ]
     },
     {
-      "serieName": "SEAI_OTHER_RENEWABLES",
+      "seriesName": "SEAI_OTHER_RENEWABLES",
       "seriesValues": [
         [
           2018,
@@ -820,7 +820,7 @@
       ]
     },
     {
-      "serieName": "SEAI_PEAT",
+      "seriesName": "SEAI_PEAT",
       "seriesValues": [
         [
           2018,
@@ -913,7 +913,7 @@
       ]
     },
     {
-      "serieName": "SEAI_HYDROGEN",
+      "seriesName": "SEAI_HYDROGEN",
       "seriesValues": [
         [
           2025,

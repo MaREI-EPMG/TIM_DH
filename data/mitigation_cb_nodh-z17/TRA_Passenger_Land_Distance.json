@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-z17",
   "data": [
     {
-      "serieName": "TRAPL",
+      "seriesName": "TRAPL",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "serieName": "TRAPM",
+      "seriesName": "TRAPM",
       "seriesValues": [
         [
           2018,
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "serieName": "TRAPS",
+      "seriesName": "TRAPS",
       "seriesValues": [
         [
           2018,

@@ -2,7 +2,7 @@
   "name": "mitigation_cb_dhplus-z17",
   "data": [
     {
-      "serieName": "INDCO2N",
+      "seriesName": "INDCO2N",
       "seriesValues": [
         [
           2025,
@@ -19,7 +19,7 @@
       ]
     },
     {
-      "serieName": "INDCO2P",
+      "seriesName": "INDCO2P",
       "seriesValues": [
         [
           2025,
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "serieName": "PWRCO2N",
+      "seriesName": "PWRCO2N",
       "seriesValues": [
         [
           2025,
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "serieName": "RSDCO2",
+      "seriesName": "RSDCO2",
       "seriesValues": [
         [
           2025,
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "serieName": "TRACO2N",
+      "seriesName": "TRACO2N",
       "seriesValues": [
         [
           2030,

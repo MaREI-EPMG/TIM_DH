@@ -2,7 +2,7 @@
   "name": "mitigation_cb_dhplus-z17",
   "data": [
     {
-      "serieName": "R-SW_Att_FPL_N1",
+      "seriesName": "R-SW_Att_FPL_N1",
       "seriesValues": [
         [
           2018,
@@ -35,7 +35,7 @@
       ]
     },
     {
-      "serieName": "R-SC_Att_ELC_N1",
+      "seriesName": "R-SC_Att_ELC_N1",
       "seriesValues": [
         [
           2019,
@@ -56,7 +56,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Att_GAS_N1",
+      "seriesName": "R-SW_Att_GAS_N1",
       "seriesValues": [
         [
           2019,
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Att_HET_N1",
+      "seriesName": "R-SW_Att_HET_N1",
       "seriesValues": [
         [
           2019,
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Att_HET_N2",
+      "seriesName": "R-SW_Att_HET_N2",
       "seriesValues": [
         [
           2019,
@@ -311,7 +311,7 @@
       ]
     },
     {
-      "serieName": "R-WH_Att_ELC_N1",
+      "seriesName": "R-WH_Att_ELC_N1",
       "seriesValues": [
         [
           2019,
@@ -428,7 +428,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Att_GAS_N1",
+      "seriesName": "R-SH_Att_GAS_N1",
       "seriesValues": [
         [
           2020,
@@ -505,7 +505,7 @@
       ]
     },
     {
-      "serieName": "R-HC_Att_ELC_HPN2-AB",
+      "seriesName": "R-HC_Att_ELC_HPN2-AB",
       "seriesValues": [
         [
           2024,
@@ -582,7 +582,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Att_ELC_N1",
+      "seriesName": "R-SH_Att_ELC_N1",
       "seriesValues": [
         [
           2050,

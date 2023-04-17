@@ -2,7 +2,7 @@
   "name": "mitigation_cb-z17",
   "data": [
     {
-      "serieName": "R-RTFT-Apt_D",
+      "seriesName": "R-RTFT-Apt_D",
       "seriesValues": [
         [
           2023,
@@ -87,7 +87,7 @@
       ]
     },
     {
-      "serieName": "R-RTFT-Apt_E",
+      "seriesName": "R-RTFT-Apt_E",
       "seriesValues": [
         [
           2023,
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "serieName": "R-RTFT-Apt_F",
+      "seriesName": "R-RTFT-Apt_F",
       "seriesValues": [
         [
           2023,
@@ -153,7 +153,7 @@
       ]
     },
     {
-      "serieName": "R-RTFT-Apt_G",
+      "seriesName": "R-RTFT-Apt_G",
       "seriesValues": [
         [
           2023,

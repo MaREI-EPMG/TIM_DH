@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-z17",
   "data": [
     {
-      "serieName": "DMD_TRA-F-LAND",
+      "seriesName": "DMD_TRA-F-LAND",
       "seriesValues": [
         [
           2019,
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-P-LAND",
+      "seriesName": "DMD_TRA-P-LAND",
       "seriesValues": [
         [
           2019,
