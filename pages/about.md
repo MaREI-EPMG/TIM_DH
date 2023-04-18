@@ -6,6 +6,7 @@
 
 1. "PWR_Gen_HETC" DH Supply graph failed to update (Olex help required or send out this graph seperately) 
 2. Graphs retrofit colours to be changed. 
+3. Unmitigated/BACKSTOP RSD emissions in 2050
 
 For any queries, Contact Jason Mc Guire - at jason.mcguire@ucc.ie
 
