@@ -1,6 +1,28 @@
 {
-  "name": "mitigation_cb_nodh-z17",
+  "name": "mitigation_cb_nodh-22apr23",
   "data": [
+    {
+      "serieName": "R-RTFT-Apt_D",
+      "seriesValues": [
+        [
+          2023,
+          1.11688565062582
+        ]
+      ]
+    },
+    {
+      "serieName": "R-RTFT-Apt_E",
+      "seriesValues": [
+        [
+          2023,
+          11.0587468290344
+        ],
+        [
+          2024,
+          1.18103121475124
+        ]
+      ]
+    },
     {
       "serieName": "R-RTFT-Apt_F",
       "seriesValues": [
@@ -10,7 +32,7 @@
         ],
         [
           2024,
-          0.399171227684775
+          0.56518046843517
         ]
       ]
     },
@@ -23,7 +45,7 @@
         ],
         [
           2024,
-          0.396886606146551
+          0.697180817950253
         ]
       ]
     }
