@@ -1,14 +1,14 @@
 [
   {
-    "name": "mitigation_cb-22apr23",
-    "variants": [{ "name": "mitigation_cb-22apr23", "specs": null }]
+    "name": "mitigation_cb-z17",
+    "variants": [{ "name": "mitigation_cb-z17", "specs": null }]
   },
   {
-    "name": "mitigation_cb_nodh-22apr23",
-    "variants": [{ "name": "mitigation_cb_nodh-22apr23", "specs": null }]
+    "name": "mitigation_cb_nodh-z17",
+    "variants": [{ "name": "mitigation_cb_nodh-z17", "specs": null }]
   },
   {
-    "name": "mitigation_cb_dhplus-22apr23",
-    "variants": [{ "name": "mitigation_cb_dhplus-22apr23", "specs": null }]
+    "name": "mitigation_cb_dhplus-z17",
+    "variants": [{ "name": "mitigation_cb_dhplus-z17", "specs": null }]
   }
 ]
