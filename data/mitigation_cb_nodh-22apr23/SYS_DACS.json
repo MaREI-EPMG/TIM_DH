@@ -1,0 +1,62 @@
+{
+  "name": "mitigation_cb_nodh-22apr23",
+  "data": [
+    {
+      "serieName": "INDCO2N",
+      "seriesValues": [
+        [
+          2025,
+          415.842996569658
+        ],
+        [
+          2029,
+          2211.65723861501
+        ],
+        [
+          2030,
+          3487.88199733805
+        ]
+      ]
+    },
+    {
+      "serieName": "INDCO2P",
+      "seriesValues": [
+        [
+          2025,
+          2624.33877822624
+        ],
+        [
+          2030,
+          179.983143184706
+        ]
+      ]
+    },
+    {
+      "serieName": "PWRCO2N",
+      "seriesValues": [
+        [
+          2025,
+          2364.54181091125
+        ]
+      ]
+    },
+    {
+      "serieName": "RSDCO2",
+      "seriesValues": [
+        [
+          2025,
+          644.942346339499
+        ]
+      ]
+    },
+    {
+      "serieName": "SRVCO2N",
+      "seriesValues": [
+        [
+          2025,
+          87.0405807042746
+        ]
+      ]
+    }
+  ]
+}
