@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-22apr23",
   "data": [
     {
-      "serieName": "RSDSH_Det-F",
+      "seriesName": "RSDSH_Det-F",
       "seriesValues": [
         [
           2019,
@@ -135,7 +135,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Det-G",
+      "seriesName": "RSDSH_Det-G",
       "seriesValues": [
         [
           2019,
@@ -268,7 +268,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Apt-D",
+      "seriesName": "RSDSH_Apt-D",
       "seriesValues": [
         [
           2023,
@@ -385,7 +385,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Apt-E",
+      "seriesName": "RSDSH_Apt-E",
       "seriesValues": [
         [
           2023,
@@ -502,7 +502,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Apt-F",
+      "seriesName": "RSDSH_Apt-F",
       "seriesValues": [
         [
           2023,
@@ -619,7 +619,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Apt-G",
+      "seriesName": "RSDSH_Apt-G",
       "seriesValues": [
         [
           2023,
@@ -736,7 +736,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Att-D",
+      "seriesName": "RSDSH_Att-D",
       "seriesValues": [
         [
           2023,
@@ -853,7 +853,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Att-E",
+      "seriesName": "RSDSH_Att-E",
       "seriesValues": [
         [
           2023,
@@ -970,7 +970,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Att-F",
+      "seriesName": "RSDSH_Att-F",
       "seriesValues": [
         [
           2023,
@@ -1087,7 +1087,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Att-G",
+      "seriesName": "RSDSH_Att-G",
       "seriesValues": [
         [
           2023,
@@ -1204,7 +1204,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Det-D",
+      "seriesName": "RSDSH_Det-D",
       "seriesValues": [
         [
           2023,
@@ -1321,7 +1321,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Det-E",
+      "seriesName": "RSDSH_Det-E",
       "seriesValues": [
         [
           2023,
@@ -1438,7 +1438,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Det-AB",
+      "seriesName": "RSDSH_Det-AB",
       "seriesValues": [
         [
           2039,
@@ -1491,7 +1491,7 @@
       ]
     },
     {
-      "serieName": "RSDSH_Det-C",
+      "seriesName": "RSDSH_Det-C",
       "seriesValues": [
         [
           2041,

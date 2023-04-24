@@ -2,7 +2,7 @@
   "name": "mitigation_cb_dhplus-22apr23",
   "data": [
     {
-      "serieName": "DMD_TRA-F-HTRUCK",
+      "seriesName": "DMD_TRA-F-HTRUCK",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-F-LTRUCK",
+      "seriesName": "DMD_TRA-F-LTRUCK",
       "seriesValues": [
         [
           2018,
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-F-MTRUCK",
+      "seriesName": "DMD_TRA-F-MTRUCK",
       "seriesValues": [
         [
           2018,
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-F-TRAIN",
+      "seriesName": "DMD_TRA-F-TRAIN",
       "seriesValues": [
         [
           2018,

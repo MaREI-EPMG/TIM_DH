@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-22apr23",
   "data": [
     {
-      "serieName": "FT_AGR",
+      "seriesName": "FT_AGR",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "serieName": "FT_IND",
+      "seriesName": "FT_IND",
       "seriesValues": [
         [
           2018,
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "serieName": "FT_RSD",
+      "seriesName": "FT_RSD",
       "seriesValues": [
         [
           2018,
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "serieName": "FT_SRV",
+      "seriesName": "FT_SRV",
       "seriesValues": [
         [
           2018,
@@ -550,7 +550,7 @@
       ]
     },
     {
-      "serieName": "FT_TRA",
+      "seriesName": "FT_TRA",
       "seriesValues": [
         [
           2018,

@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-22apr23",
   "data": [
     {
-      "serieName": "SH2PCELC_01",
+      "seriesName": "SH2PCELC_01",
       "seriesValues": [
         [
           2030,
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "serieName": "SH2PDELC_01",
+      "seriesName": "SH2PDELC_01",
       "seriesValues": [
         [
           2030,

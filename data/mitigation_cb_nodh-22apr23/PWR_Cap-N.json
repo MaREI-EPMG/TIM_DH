@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-22apr23",
   "data": [
     {
-      "serieName": "PWR-SOL",
+      "seriesName": "PWR-SOL",
       "seriesValues": [
         [
           2019,
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "serieName": "PWR-WIN-ON",
+      "seriesName": "PWR-WIN-ON",
       "seriesValues": [
         [
           2019,
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "serieName": "PWR-BIO",
+      "seriesName": "PWR-BIO",
       "seriesValues": [
         [
           2023,
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "serieName": "PWR-GAS",
+      "seriesName": "PWR-GAS",
       "seriesValues": [
         [
           2023,
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "serieName": "PWR-WIN-OF",
+      "seriesName": "PWR-WIN-OF",
       "seriesValues": [
         [
           2027,
@@ -323,7 +323,7 @@
       ]
     },
     {
-      "serieName": "PWR-BIO-CCS",
+      "seriesName": "PWR-BIO-CCS",
       "seriesValues": [
         [
           2035,

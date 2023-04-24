@@ -2,7 +2,7 @@
   "name": "mitigation_cb-22apr23",
   "data": [
     {
-      "serieName": "R-RTFT-Att_D",
+      "seriesName": "R-RTFT-Att_D",
       "seriesValues": [
         [
           2023,
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "serieName": "R-RTFT-Att_E",
+      "seriesName": "R-RTFT-Att_E",
       "seriesValues": [
         [
           2023,
@@ -168,7 +168,7 @@
       ]
     },
     {
-      "serieName": "R-RTFT-Att_F",
+      "seriesName": "R-RTFT-Att_F",
       "seriesValues": [
         [
           2023,
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "serieName": "R-RTFT-Att_G",
+      "seriesName": "R-RTFT-Att_G",
       "seriesValues": [
         [
           2023,

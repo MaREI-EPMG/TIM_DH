@@ -2,7 +2,7 @@
   "name": "mitigation_cb_dhplus-22apr23",
   "data": [
     {
-      "serieName": "IMPBIODST1G_S1",
+      "seriesName": "IMPBIODST1G_S1",
       "seriesValues": [
         [
           2018,
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "serieName": "IMPBIODST1G_S2",
+      "seriesName": "IMPBIODST1G_S2",
       "seriesValues": [
         [
           2018,
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "serieName": "SBIORDST02",
+      "seriesName": "SBIORDST02",
       "seriesValues": [
         [
           2019,
@@ -221,7 +221,7 @@
       ]
     },
     {
-      "serieName": "SBIORDST03",
+      "seriesName": "SBIORDST03",
       "seriesValues": [
         [
           2019,
@@ -322,7 +322,7 @@
       ]
     },
     {
-      "serieName": "SBIORDST01",
+      "seriesName": "SBIORDST01",
       "seriesValues": [
         [
           2023,
@@ -379,7 +379,7 @@
       ]
     },
     {
-      "serieName": "SBIORDST04",
+      "seriesName": "SBIORDST04",
       "seriesValues": [
         [
           2023,
@@ -496,7 +496,7 @@
       ]
     },
     {
-      "serieName": "SBIORDST05",
+      "seriesName": "SBIORDST05",
       "seriesValues": [
         [
           2023,

@@ -2,7 +2,7 @@
   "name": "mitigation_cb-22apr23",
   "data": [
     {
-      "serieName": "DMD_RSD-BLD-APT",
+      "seriesName": "DMD_RSD-BLD-APT",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "serieName": "DMD_RSD-BLD-ATT",
+      "seriesName": "DMD_RSD-BLD-ATT",
       "seriesValues": [
         [
           2018,
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "serieName": "DMD_RSD-BLD-DET",
+      "seriesName": "DMD_RSD-BLD-DET",
       "seriesValues": [
         [
           2018,
