@@ -1162,6 +1162,21 @@
     ],
     "unit": "PJ"
   },
+"PWR_Gen-HETC": {
+    "seriesNames": [
+      "P-TH-OCGT-GAS00-SK3",
+      "P-TH-OCGT-GAS00-SK4",
+      "DH_IND_SURPLUS_HEAT",
+      "DH_STG_HETC_N1"
+    ],
+    "colorScale": [
+      "#161315",
+      "#B0B2B8",
+      "#009DDC",
+      "#8B6318"
+    ],
+    "unit": "PJ"
+  },
   "RSD_WS-ATT_NCAP": {
     "seriesNames": [
       "R-SW_Att_FPL_N1",
