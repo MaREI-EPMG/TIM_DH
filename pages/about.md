@@ -2,9 +2,9 @@
 
 To View Paper - https://www.overleaf.com/read/mxnskrvpfcsy 
 
-**Results 24-April-2023**
+**Results 12-May-2023**
 
-1. "PWR_Gen_HETC" DH Supply graph failed to update (Olex help required or send out this graph seperately) 
+1. "PWR_Gen_HETC" DH Supply graph failed to update 
 2. Graphs retrofit colours to be changed. 
 
 

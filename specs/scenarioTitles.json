@@ -1,5 +1,9 @@
 {
-  "mitigation_cb-22apr23": "mitigation_cb",
-  "mitigation_cb_dhplus-22apr23": "mitigation_cb_dhplus",
-  "mitigation_cb_nodh-22apr23": "mitigation_cb_nodh"
+  "mitigation_cb-q-50": "Cd50-Free",
+  "mitigation_cb-q15-50": "Cd50-10%Growth",
+  "mitigation_cb-q-30": "Cd30-Free",
+  "mitigation_cb-q15-30": "Cd30-10%Growth",
+  "mitigation_cb-90": "Cd90-Free",
+  "mitigation_cb-q15-90": "Cd90-10%Growth",
+  "mitigation_cb_nodh-q-50": "No DH"
 }
