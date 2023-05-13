@@ -1,9 +1,9 @@
 {
-  "mitigation_cb-r10-50": "DH-C10-50",
+  "mitigation_cb-r10-50": "mitigation_cb-r10-50",
   "mitigation_cb-q15-50": "Cd50-10%Growth",
-  "mitigation_cb-r10-30": "DH-C10-30",
+  "mitigation_cb-r10-30": "mitigation_cb-r10-30",
   "mitigation_cb-q15-30": "Cd30-10%Growth",
-  "mitigation_cb-90": ""DH-C10-90",
+  "mitigation_cb-90": "mitigation_cb-r10-90",
   "mitigation_cb-r10-90": "Cd90-10%Growth",
-  "mitigation_cb_nodh-r": "No DH"
+  "mitigation_cb_nodh-r": "mitigation_cb_nodh-r"
 }
