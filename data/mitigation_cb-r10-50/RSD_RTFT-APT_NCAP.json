@@ -1,0 +1,32 @@
+{
+  "name": "mitigation_cb-r10-50",
+  "data": [
+    {
+      "serieName": "R-RTFT-Apt_E",
+      "seriesValues": [
+        [
+          2023,
+          11.0587468290344
+        ]
+      ]
+    },
+    {
+      "serieName": "R-RTFT-Apt_F",
+      "seriesValues": [
+        [
+          2023,
+          3.69445314916268
+        ]
+      ]
+    },
+    {
+      "serieName": "R-RTFT-Apt_G",
+      "seriesValues": [
+        [
+          2023,
+          4.9917042557411
+        ]
+      ]
+    }
+  ]
+}

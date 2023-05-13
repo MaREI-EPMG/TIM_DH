@@ -1,0 +1,49 @@
+{
+  "name": "mitigation_cb_nodh-r",
+  "data": [
+    {
+      "serieName": "INDCO2N",
+      "seriesValues": [
+        [
+          2025,
+          3040.18177479591
+        ],
+        [
+          2029,
+          2211.39063903394
+        ],
+        [
+          2030,
+          3487.88199733804
+        ]
+      ]
+    },
+    {
+      "serieName": "PWRCO2N",
+      "seriesValues": [
+        [
+          2025,
+          2780.76734253687
+        ]
+      ]
+    },
+    {
+      "serieName": "SRVCO2N",
+      "seriesValues": [
+        [
+          2025,
+          128.625957925689
+        ]
+      ]
+    },
+    {
+      "serieName": "INDCO2P",
+      "seriesValues": [
+        [
+          2030,
+          179.983143184706
+        ]
+      ]
+    }
+  ]
+}
