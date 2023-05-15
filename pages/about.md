@@ -2,10 +2,11 @@
 
 To View Paper - https://www.overleaf.com/read/mxnskrvpfcsy 
 
-**Results 12-May-2023**
+**Results 15-May-2023**
 
-1. "PWR_Gen_HETC" DH Supply graph failed to update 
+1. "PWR_Gen_HETC" DH Supply graph failed to update - see graphs here: https://public.tableau.com/app/profile/jason.mc.guire/viz/DHSupply/Dashboard1?publish=yes 
 2. Graphs retrofit colours to be changed. 
+3. Issue with some overview graphs in DH-C10-30 scenario
 
 
 
