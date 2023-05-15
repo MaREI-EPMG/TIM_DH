@@ -8,8 +8,8 @@
     "variants": [{ "name": "mitigation_cb-r10-50", "specs": null }]
   },
   {
-    "name": "mitigation_cb-r10-90",
-    "variants": [{ "name": "mitigation_cb-r10-90", "specs": null }]
+    "name": "mitigation_cb-s10-90",
+    "variants": [{ "name": "mitigation_cb-s10-90", "specs": null }]
   },
   {
     "name": "mitigation_cb-r-30",
@@ -24,7 +24,7 @@
     "variants": [{ "name": "mitigation_cb-r-90", "specs": null }]
   },
   {
-    "name": "mitigation_cb_nodh-r",
-    "variants": [{ "name": "mitigation_cb_nodh-r", "specs": null }]
+    "name": "mitigation_cb_nodh-s",
+    "variants": [{ "name": "mitigation_cb_nodh-s", "specs": null }]
   }
 ]
