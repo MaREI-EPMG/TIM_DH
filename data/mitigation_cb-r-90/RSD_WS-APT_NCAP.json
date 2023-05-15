@@ -2,7 +2,7 @@
   "name": "mitigation_cb-r-90",
   "data": [
     {
-      "serieName": "R-SC_Apt_ELC_N2",
+      "seriesName": "R-SC_Apt_ELC_N2",
       "seriesValues": [
         [
           2019,
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Apt_HET_N1",
+      "seriesName": "R-SW_Apt_HET_N1",
       "seriesValues": [
         [
           2019,
@@ -208,7 +208,7 @@
       ]
     },
     {
-      "serieName": "R-WH_Apt_ELC_N1",
+      "seriesName": "R-WH_Apt_ELC_N1",
       "seriesValues": [
         [
           2019,
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "serieName": "R-HC_Apt_ELC_HPN2-AB",
+      "seriesName": "R-HC_Apt_ELC_HPN2-AB",
       "seriesValues": [
         [
           2023,
@@ -322,7 +322,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Apt_GAS_N1",
+      "seriesName": "R-SW_Apt_GAS_N1",
       "seriesValues": [
         [
           2023,
@@ -387,7 +387,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Apt_WOO_N1",
+      "seriesName": "R-SW_Apt_WOO_N1",
       "seriesValues": [
         [
           2023,
@@ -396,7 +396,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Apt_GAS_N1",
+      "seriesName": "R-SH_Apt_GAS_N1",
       "seriesValues": [
         [
           2024,

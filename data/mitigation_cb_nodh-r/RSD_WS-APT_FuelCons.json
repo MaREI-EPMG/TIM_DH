@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-r",
   "data": [
     {
-      "serieName": "RSDAHT",
+      "seriesName": "RSDAHT",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "serieName": "RSDAHT2",
+      "seriesName": "RSDAHT2",
       "seriesValues": [
         [
           2018,
@@ -224,7 +224,7 @@
       ]
     },
     {
-      "serieName": "RSDBDL",
+      "seriesName": "RSDBDL",
       "seriesValues": [
         [
           2018,
@@ -309,7 +309,7 @@
       ]
     },
     {
-      "serieName": "RSDCOA",
+      "seriesName": "RSDCOA",
       "seriesValues": [
         [
           2018,
@@ -394,7 +394,7 @@
       ]
     },
     {
-      "serieName": "RSDELC",
+      "seriesName": "RSDELC",
       "seriesValues": [
         [
           2018,
@@ -531,7 +531,7 @@
       ]
     },
     {
-      "serieName": "RSDETH",
+      "seriesName": "RSDETH",
       "seriesValues": [
         [
           2018,
@@ -616,7 +616,7 @@
       ]
     },
     {
-      "serieName": "RSDGAS",
+      "seriesName": "RSDGAS",
       "seriesValues": [
         [
           2018,
@@ -753,7 +753,7 @@
       ]
     },
     {
-      "serieName": "RSDHET_Apt",
+      "seriesName": "RSDHET_Apt",
       "seriesValues": [
         [
           2018,
@@ -774,7 +774,7 @@
       ]
     },
     {
-      "serieName": "RSDKER",
+      "seriesName": "RSDKER",
       "seriesValues": [
         [
           2018,
@@ -859,7 +859,7 @@
       ]
     },
     {
-      "serieName": "RSDLPG",
+      "seriesName": "RSDLPG",
       "seriesValues": [
         [
           2018,
@@ -944,7 +944,7 @@
       ]
     },
     {
-      "serieName": "RSDPEA",
+      "seriesName": "RSDPEA",
       "seriesValues": [
         [
           2018,
@@ -1025,7 +1025,7 @@
       ]
     },
     {
-      "serieName": "RSDSOL",
+      "seriesName": "RSDSOL",
       "seriesValues": [
         [
           2018,
@@ -1106,7 +1106,7 @@
       ]
     },
     {
-      "serieName": "RSDWOO",
+      "seriesName": "RSDWOO",
       "seriesValues": [
         [
           2018,

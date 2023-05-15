@@ -2,7 +2,7 @@
   "name": "mitigation_cb-r-90",
   "data": [
     {
-      "serieName": "R-SW_Att_FPL_N1",
+      "seriesName": "R-SW_Att_FPL_N1",
       "seriesValues": [
         [
           2018,
@@ -23,7 +23,7 @@
       ]
     },
     {
-      "serieName": "R-SC_Att_ELC_N1",
+      "seriesName": "R-SC_Att_ELC_N1",
       "seriesValues": [
         [
           2019,
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Att_GAS_N1",
+      "seriesName": "R-SW_Att_GAS_N1",
       "seriesValues": [
         [
           2019,
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "serieName": "R-SW_Att_HET_N1",
+      "seriesName": "R-SW_Att_HET_N1",
       "seriesValues": [
         [
           2019,
@@ -258,7 +258,7 @@
       ]
     },
     {
-      "serieName": "R-WH_Att_ELC_N1",
+      "seriesName": "R-WH_Att_ELC_N1",
       "seriesValues": [
         [
           2019,
@@ -335,7 +335,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Att_GAS_N1",
+      "seriesName": "R-SH_Att_GAS_N1",
       "seriesValues": [
         [
           2020,
@@ -460,7 +460,7 @@
       ]
     },
     {
-      "serieName": "R-SH_Att_KER_N1",
+      "seriesName": "R-SH_Att_KER_N1",
       "seriesValues": [
         [
           2023,

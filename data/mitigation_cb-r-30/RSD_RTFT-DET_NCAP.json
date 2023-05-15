@@ -2,7 +2,7 @@
   "name": "mitigation_cb-r-30",
   "data": [
     {
-      "serieName": "R-RTFT-Det_F",
+      "seriesName": "R-RTFT-Det_F",
       "seriesValues": [
         [
           2019,
@@ -15,7 +15,7 @@
       ]
     },
     {
-      "serieName": "R-RTFT-Det_G",
+      "seriesName": "R-RTFT-Det_G",
       "seriesValues": [
         [
           2019,
@@ -40,7 +40,7 @@
       ]
     },
     {
-      "serieName": "R-RTFT-Det_D",
+      "seriesName": "R-RTFT-Det_D",
       "seriesValues": [
         [
           2023,
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "serieName": "R-RTFT-Det_E",
+      "seriesName": "R-RTFT-Det_E",
       "seriesValues": [
         [
           2023,

@@ -2,7 +2,7 @@
   "name": "mitigation_cb-r10-90",
   "data": [
     {
-      "serieName": "ENV-CO2",
+      "seriesName": "ENV-CO2",
       "seriesValues": [
         [
           2023,

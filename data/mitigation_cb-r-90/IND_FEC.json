@@ -2,7 +2,7 @@
   "name": "mitigation_cb-r-90",
   "data": [
     {
-      "serieName": "INDBGS",
+      "seriesName": "INDBGS",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "serieName": "INDBIO",
+      "seriesName": "INDBIO",
       "seriesValues": [
         [
           2018,
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "serieName": "INDCOA",
+      "seriesName": "INDCOA",
       "seriesValues": [
         [
           2018,
@@ -409,7 +409,7 @@
       ]
     },
     {
-      "serieName": "INDCOK",
+      "seriesName": "INDCOK",
       "seriesValues": [
         [
           2018,
@@ -546,7 +546,7 @@
       ]
     },
     {
-      "serieName": "INDDST",
+      "seriesName": "INDDST",
       "seriesValues": [
         [
           2018,
@@ -683,7 +683,7 @@
       ]
     },
     {
-      "serieName": "INDELC",
+      "seriesName": "INDELC",
       "seriesValues": [
         [
           2018,
@@ -820,7 +820,7 @@
       ]
     },
     {
-      "serieName": "INDGAS",
+      "seriesName": "INDGAS",
       "seriesValues": [
         [
           2018,
@@ -957,7 +957,7 @@
       ]
     },
     {
-      "serieName": "INDHFO",
+      "seriesName": "INDHFO",
       "seriesValues": [
         [
           2018,
@@ -1094,7 +1094,7 @@
       ]
     },
     {
-      "serieName": "INDKER",
+      "seriesName": "INDKER",
       "seriesValues": [
         [
           2018,
@@ -1227,7 +1227,7 @@
       ]
     },
     {
-      "serieName": "INDLPG",
+      "seriesName": "INDLPG",
       "seriesValues": [
         [
           2018,
@@ -1364,7 +1364,7 @@
       ]
     },
     {
-      "serieName": "INDNWS",
+      "seriesName": "INDNWS",
       "seriesValues": [
         [
           2018,
@@ -1501,7 +1501,7 @@
       ]
     },
     {
-      "serieName": "INDPEA",
+      "seriesName": "INDPEA",
       "seriesValues": [
         [
           2018,
@@ -1510,7 +1510,7 @@
       ]
     },
     {
-      "serieName": "INDRWS",
+      "seriesName": "INDRWS",
       "seriesValues": [
         [
           2018,
@@ -1647,7 +1647,7 @@
       ]
     },
     {
-      "serieName": "INDBDL",
+      "seriesName": "INDBDL",
       "seriesValues": [
         [
           2023,
@@ -1764,7 +1764,7 @@
       ]
     },
     {
-      "serieName": "INDBKE",
+      "seriesName": "INDBKE",
       "seriesValues": [
         [
           2023,
@@ -1881,7 +1881,7 @@
       ]
     },
     {
-      "serieName": "INDH2G",
+      "seriesName": "INDH2G",
       "seriesValues": [
         [
           2025,

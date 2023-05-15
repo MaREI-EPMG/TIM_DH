@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-r",
   "data": [
     {
-      "serieName": "DMD_TRA-P-ACTIVE",
+      "seriesName": "DMD_TRA-P-ACTIVE",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-P-BUS",
+      "seriesName": "DMD_TRA-P-BUS",
       "seriesValues": [
         [
           2018,
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-P-CAR",
+      "seriesName": "DMD_TRA-P-CAR",
       "seriesValues": [
         [
           2018,
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-P-HPT",
+      "seriesName": "DMD_TRA-P-HPT",
       "seriesValues": [
         [
           2018,
@@ -550,7 +550,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-P-LPT",
+      "seriesName": "DMD_TRA-P-LPT",
       "seriesValues": [
         [
           2018,
@@ -687,7 +687,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-P-MOT",
+      "seriesName": "DMD_TRA-P-MOT",
       "seriesValues": [
         [
           2018,
@@ -824,7 +824,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-P-TAXI",
+      "seriesName": "DMD_TRA-P-TAXI",
       "seriesValues": [
         [
           2018,

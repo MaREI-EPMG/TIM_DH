@@ -2,7 +2,7 @@
   "name": "mitigation_cb-r10-90",
   "data": [
     {
-      "serieName": "DMD_TRA-F-HTRUCK-ICE",
+      "seriesName": "DMD_TRA-F-HTRUCK-ICE",
       "seriesValues": [
         [
           2018,
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-F-HTRUCK-HEV",
+      "seriesName": "DMD_TRA-F-HTRUCK-HEV",
       "seriesValues": [
         [
           2024,
@@ -212,7 +212,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-F-HTRUCK-BEV",
+      "seriesName": "DMD_TRA-F-HTRUCK-BEV",
       "seriesValues": [
         [
           2025,
@@ -321,7 +321,7 @@
       ]
     },
     {
-      "serieName": "DMD_TRA-F-HTRUCK-FCV",
+      "seriesName": "DMD_TRA-F-HTRUCK-FCV",
       "seriesValues": [
         [
           2030,

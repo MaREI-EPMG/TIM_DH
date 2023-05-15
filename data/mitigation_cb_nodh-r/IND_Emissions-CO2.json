@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-r",
   "data": [
     {
-      "serieName": "DMD_IND-CAF",
+      "seriesName": "DMD_IND-CAF",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "serieName": "DMD_IND-CON",
+      "seriesName": "DMD_IND-CON",
       "seriesValues": [
         [
           2018,
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "serieName": "DMD_IND-EOE",
+      "seriesName": "DMD_IND-EOE",
       "seriesValues": [
         [
           2018,
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "serieName": "DMD_IND-FAB",
+      "seriesName": "DMD_IND-FAB",
       "seriesValues": [
         [
           2018,
@@ -550,7 +550,7 @@
       ]
     },
     {
-      "serieName": "DMD_IND-MAE",
+      "seriesName": "DMD_IND-MAE",
       "seriesValues": [
         [
           2018,
@@ -687,7 +687,7 @@
       ]
     },
     {
-      "serieName": "DMD_IND-MAP",
+      "seriesName": "DMD_IND-MAP",
       "seriesValues": [
         [
           2018,
@@ -824,7 +824,7 @@
       ]
     },
     {
-      "serieName": "DMD_IND-NEM",
+      "seriesName": "DMD_IND-NEM",
       "seriesValues": [
         [
           2018,
@@ -961,7 +961,7 @@
       ]
     },
     {
-      "serieName": "DMD_IND-OMA",
+      "seriesName": "DMD_IND-OMA",
       "seriesValues": [
         [
           2018,
@@ -1098,7 +1098,7 @@
       ]
     },
     {
-      "serieName": "DMD_IND-ONM",
+      "seriesName": "DMD_IND-ONM",
       "seriesValues": [
         [
           2018,
@@ -1235,7 +1235,7 @@
       ]
     },
     {
-      "serieName": "DMD_IND-PX4",
+      "seriesName": "DMD_IND-PX4",
       "seriesValues": [
         [
           2018,
@@ -1372,7 +1372,7 @@
       ]
     },
     {
-      "serieName": "DMD_IND-RAP",
+      "seriesName": "DMD_IND-RAP",
       "seriesValues": [
         [
           2018,
@@ -1509,7 +1509,7 @@
       ]
     },
     {
-      "serieName": "DMD_IND-TAP",
+      "seriesName": "DMD_IND-TAP",
       "seriesValues": [
         [
           2018,
@@ -1646,7 +1646,7 @@
       ]
     },
     {
-      "serieName": "DMD_IND-TEM",
+      "seriesName": "DMD_IND-TEM",
       "seriesValues": [
         [
           2018,
@@ -1783,7 +1783,7 @@
       ]
     },
     {
-      "serieName": "DMD_IND-WAP",
+      "seriesName": "DMD_IND-WAP",
       "seriesValues": [
         [
           2018,
