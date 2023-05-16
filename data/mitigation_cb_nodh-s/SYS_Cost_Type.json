@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-s",
   "data": [
     {
-      "serieName": "FIX",
+      "seriesName": "FIX",
       "seriesValues": [
         [
           2018,
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "serieName": "INV",
+      "seriesName": "INV",
       "seriesValues": [
         [
           2018,
@@ -276,7 +276,7 @@
       ]
     },
     {
-      "serieName": "VAR",
+      "seriesName": "VAR",
       "seriesValues": [
         [
           2018,
@@ -413,7 +413,7 @@
       ]
     },
     {
-      "serieName": "VARX",
+      "seriesName": "VARX",
       "seriesValues": [
         [
           2018,

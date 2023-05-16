@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-s",
   "data": [
     {
-      "serieName": "PWR-COA",
+      "seriesName": "PWR-COA",
       "seriesValues": [
         [
           2018,
@@ -27,7 +27,7 @@
       ]
     },
     {
-      "serieName": "PWR-GAS",
+      "seriesName": "PWR-GAS",
       "seriesValues": [
         [
           2018,
@@ -164,7 +164,7 @@
       ]
     },
     {
-      "serieName": "PWR-OIL",
+      "seriesName": "PWR-OIL",
       "seriesValues": [
         [
           2018,
@@ -189,7 +189,7 @@
       ]
     },
     {
-      "serieName": "PWR-PEA",
+      "seriesName": "PWR-PEA",
       "seriesValues": [
         [
           2018,
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "serieName": "PWR-BIO-CCS",
+      "seriesName": "PWR-BIO-CCS",
       "seriesValues": [
         [
           2040,

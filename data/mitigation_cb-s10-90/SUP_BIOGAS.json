@@ -2,7 +2,7 @@
   "name": "mitigation_cb-s10-90",
   "data": [
     {
-      "serieName": "SBIORGAS02",
+      "seriesName": "SBIORGAS02",
       "seriesValues": [
         [
           2018,
@@ -107,7 +107,7 @@
       ]
     },
     {
-      "serieName": "SBIORGAS01",
+      "seriesName": "SBIORGAS01",
       "seriesValues": [
         [
           2019,
@@ -240,7 +240,7 @@
       ]
     },
     {
-      "serieName": "SBIORGAS05",
+      "seriesName": "SBIORGAS05",
       "seriesValues": [
         [
           2023,
@@ -357,7 +357,7 @@
       ]
     },
     {
-      "serieName": "SBIORGAS06",
+      "seriesName": "SBIORGAS06",
       "seriesValues": [
         [
           2023,
@@ -474,7 +474,7 @@
       ]
     },
     {
-      "serieName": "SBIORGAS03",
+      "seriesName": "SBIORGAS03",
       "seriesValues": [
         [
           2025,

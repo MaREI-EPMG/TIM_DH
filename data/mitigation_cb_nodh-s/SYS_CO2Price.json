@@ -2,7 +2,7 @@
   "name": "mitigation_cb_nodh-s",
   "data": [
     {
-      "serieName": "ENV-CO2",
+      "seriesName": "ENV-CO2",
       "seriesValues": [
         [
           2023,
